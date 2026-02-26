@@ -7,7 +7,7 @@ permissions:
 
 env:
   PROJECT_NAME: PsychEngine
-  REPO_PATH: marcosantoniopardogarces-eng/te-habla-mr-beast
+  REPO_PATH: noctrox389/sonic-fff-port
 
 jobs:
   get-commit-hash:
