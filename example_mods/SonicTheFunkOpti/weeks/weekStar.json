@@ -1,0 +1,40 @@
+{
+	"storyName": "Metallic Madness",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Menu",
+			"sonic",
+			[
+				30,
+				111,
+				255
+			]
+		],
+		[
+			"burnout",
+			"sonic",
+			[
+				76,
+				55,
+				83
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Act 3"
+}

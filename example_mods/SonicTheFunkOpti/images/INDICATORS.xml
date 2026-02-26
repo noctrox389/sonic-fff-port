@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="INDICATORS.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="INDICATORkeyboard0000" x="2" y="2" width="392" height="264"/>
+	<SubTexture name="INDICATORmouse0000" x="2" y="268" width="441" height="206"/>
+</TextureAtlas>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="NOTES_holdglow.png" width="1967" height="55">
+	<SubTexture name="downHOLDGLOW instance 10000.png" x="1225" y="1" width="92" height="49" frameX="-7" frameY="-3" frameWidth="111" frameHeight="60"/>
+	<SubTexture name="downHOLDGLOW instance 10001.png" x="425" y="1" width="97" height="51" frameX="-5" frameY="-2" frameWidth="111" frameHeight="60"/>
+	<SubTexture name="downHOLDGLOW instance 10002.png" x="1" y="1" width="103" height="53" frameX="-2" frameY="-1" frameWidth="111" frameHeight="60"/>
+	<SubTexture name="downHOLDGLOW instance 10003.png" x="525" y="1" width="97" height="51" frameX="-5" frameY="-2" frameWidth="111" frameHeight="60"/>
+	<SubTexture name="downHOLDGLOW instance 10004.png" x="1605" y="1" width="88" height="47" frameX="-9" frameY="-4" frameWidth="111" frameHeight="60"/>
+	<SubTexture name="leftHOLDGLOW instance 10000.png" x="1320" y="1" width="92" height="49" frameX="-6" frameY="-3" frameWidth="110" frameHeight="60"/>
+	<SubTexture name="leftHOLDGLOW instance 10001.png" x="625" y="1" width="97" height="51" frameX="-4" frameY="-2" frameWidth="110" frameHeight="60"/>
+	<SubTexture name="leftHOLDGLOW instance 10002.png" x="107" y="1" width="103" height="53" frameX="-1" frameY="-1" frameWidth="110" frameHeight="60"/>
+	<SubTexture name="leftHOLDGLOW instance 10003.png" x="725" y="1" width="97" height="51" frameX="-4" frameY="-2" frameWidth="110" frameHeight="60"/>
+	<SubTexture name="leftHOLDGLOW instance 10004.png" x="1696" y="1" width="88" height="47" frameX="-8" frameY="-4" frameWidth="110" frameHeight="60"/>
+	<SubTexture name="rightHOLDGLOW instance 10000.png" x="1415" y="1" width="92" height="49" frameX="-7" frameY="-4" frameWidth="111" frameHeight="60"/>
+	<SubTexture name="rightHOLDGLOW instance 10001.png" x="825" y="1" width="97" height="51" frameX="-5" frameY="-3" frameWidth="111" frameHeight="60"/>
+	<SubTexture name="rightHOLDGLOW instance 10002.png" x="213" y="1" width="103" height="53" frameX="-2" frameY="-2" frameWidth="111" frameHeight="60"/>
+	<SubTexture name="rightHOLDGLOW instance 10003.png" x="925" y="1" width="97" height="51" frameX="-5" frameY="-3" frameWidth="111" frameHeight="60"/>
+	<SubTexture name="rightHOLDGLOW instance 10004.png" x="1787" y="1" width="88" height="47" frameX="-9" frameY="-5" frameWidth="111" frameHeight="60"/>
+	<SubTexture name="upHOLDGLOW instance 10000.png" x="1510" y="1" width="92" height="49" frameX="-7" frameY="-3" frameWidth="111" frameHeight="60"/>
+	<SubTexture name="upHOLDGLOW instance 10001.png" x="1025" y="1" width="97" height="51" frameX="-5" frameY="-2" frameWidth="111" frameHeight="60"/>
+	<SubTexture name="upHOLDGLOW instance 10002.png" x="319" y="1" width="103" height="53" frameX="-2" frameY="-1" frameWidth="111" frameHeight="60"/>
+	<SubTexture name="upHOLDGLOW instance 10003.png" x="1125" y="1" width="97" height="51" frameX="-5" frameY="-2" frameWidth="111" frameHeight="60"/>
+	<SubTexture name="upHOLDGLOW instance 10004.png" x="1878" y="1" width="88" height="47" frameX="-9" frameY="-4" frameWidth="111" frameHeight="60"/>
+</TextureAtlas>

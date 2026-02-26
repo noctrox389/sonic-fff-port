@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="crown.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="crown0000" x="2" y="2" width="61" height="53"/>
+	<SubTexture name="crowNEmpty0000" x="2" y="57" width="66" height="58"/>
+</TextureAtlas>

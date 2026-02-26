@@ -1,0 +1,159 @@
+{
+	"animations": [
+		{
+			"offsets": [-21, -226],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "sonic idle"
+		},
+		{
+			"offsets": [41, -248],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sonic right"
+		},
+		{
+			"offsets": [-127, -236],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sonic left"
+		},
+		{
+			"offsets": [27, -315],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sonic down"
+		},
+		{
+			"offsets": [-80, -193],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sonic up"
+		},
+		{
+			"loop": false,
+			"offsets": [-32, -223],
+			"anim": "awyeah",
+			"fps": 24,
+			"name": "sonic awyeah",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [10, -230],
+			"anim": "die",
+			"fps": 24,
+			"name": "sonic dead",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-101, -250],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "sonic hit",
+			"indices": []
+		},
+		{
+			"offsets": [30, -300],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge1",
+			"indices": [],
+			"name": "sonic dodge1"
+		},
+		{
+			"offsets": [-40, -220],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge2",
+			"indices": [],
+			"name": "sonic dodgE2"
+		},
+		{
+			"offsets": [181, -191],
+			"loop": false,
+			"fps": 24,
+			"anim": "punch1",
+			"indices": [],
+			"name": "sonic punch1"
+		},
+		{
+			"offsets": [233, -226],
+			"loop": false,
+			"fps": 24,
+			"anim": "punch2",
+			"indices": [],
+			"name": "sonic puncH2"
+		},
+		{
+			"offsets": [-40, -277],
+			"loop": false,
+			"fps": 24,
+			"anim": "surprised",
+			"indices": [],
+			"name": "sonic surprised"
+		},
+		{
+			"offsets": [-40, -277],
+			"loop": false,
+			"fps": 24,
+			"anim": "idlle-surprised",
+			"indices": [11],
+			"name": "sonic surprised"
+		},
+		{
+			"offsets": [39, -250],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "sonic righT miss"
+		},
+		{
+			"offsets": [-107, -236],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "sonic lefT miss"
+		},
+		{
+			"offsets": [27, -308],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "sonic dowN miss"
+		},
+		{
+			"offsets": [-29, -193],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "sonic uP miss"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/bf/sonic_player",
+	"position": [105, 145],
+	"healthicon": "sonic",
+	"flip_x": false,
+	"healthbar_colors": [30, 111, 235],
+	"camera_position": [310, 100],
+	"sing_duration": 4,
+	"scale": 2,
+	"_editor_isPlayer": true
+}

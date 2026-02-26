@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="sonicsoundtest.png" width="1132" height="845">
+	<SubTexture name="sonicnew dance0000" x="455" y="565" width="225" height="278" frameX="-1" frameY="-3" frameWidth="227" frameHeight="286"/>
+	<SubTexture name="sonicnew dance0001" x="455" y="565" width="225" height="278" frameX="-1" frameY="-3" frameWidth="227" frameHeight="286"/>
+	<SubTexture name="sonicnew dance0002" x="229" y="565" width="225" height="279" frameX="-2" frameY="-1" frameWidth="227" frameHeight="286"/>
+	<SubTexture name="sonicnew dance0003" x="229" y="565" width="225" height="279" frameX="-2" frameY="-1" frameWidth="227" frameHeight="286"/>
+	<SubTexture name="sonicnew dance0004" x="228" y="283" width="226" height="281" frameX="-1" frameY="-0" frameWidth="227" frameHeight="286"/>
+	<SubTexture name="sonicnew dance0005" x="228" y="283" width="226" height="281" frameX="-1" frameY="-0" frameWidth="227" frameHeight="286"/>
+	<SubTexture name="sonicnew dance0006" x="455" y="283" width="226" height="281" frameX="-0" frameY="-1" frameWidth="227" frameHeight="286"/>
+	<SubTexture name="sonicnew dance0007" x="455" y="283" width="226" height="281" frameX="-0" frameY="-1" frameWidth="227" frameHeight="286"/>
+	<SubTexture name="sonicnew dance0008" x="1" y="1" width="226" height="282" frameX="-0" frameY="-1" frameWidth="227" frameHeight="286"/>
+	<SubTexture name="sonicnew dance0009" x="1" y="1" width="226" height="282" frameX="-0" frameY="-1" frameWidth="227" frameHeight="286"/>
+	<SubTexture name="sonicnew dance0010" x="1" y="1" width="226" height="282" frameX="-0" frameY="-1" frameWidth="227" frameHeight="286"/>
+	<SubTexture name="sonicnew dance0011" x="1" y="1" width="226" height="282" frameX="-0" frameY="-1" frameWidth="227" frameHeight="286"/>
+	<SubTexture name="sonicnew dance0012" x="1" y="1" width="226" height="282" frameX="-0" frameY="-1" frameWidth="227" frameHeight="286"/>
+	<SubTexture name="sonicnew dance0013" x="906" y="565" width="225" height="277" frameX="-0" frameY="-8" frameWidth="227" frameHeight="286"/>
+	<SubTexture name="sonicnew dance0014" x="906" y="565" width="225" height="277" frameX="-0" frameY="-8" frameWidth="227" frameHeight="286"/>
+	<SubTexture name="sonicnew dance0015" x="681" y="565" width="224" height="278" frameX="-0" frameY="-8" frameWidth="227" frameHeight="286"/>
+	<SubTexture name="sonicnew dance0016" x="681" y="565" width="224" height="278" frameX="-0" frameY="-8" frameWidth="227" frameHeight="286"/>
+	<SubTexture name="sonicnew dance0017" x="908" y="1" width="223" height="278" frameX="-1" frameY="-6" frameWidth="227" frameHeight="286"/>
+	<SubTexture name="sonicnew dance0018" x="908" y="1" width="223" height="278" frameX="-1" frameY="-6" frameWidth="227" frameHeight="286"/>
+	<SubTexture name="sonicnew dance0019" x="681" y="1" width="226" height="281" frameX="-0" frameY="-1" frameWidth="227" frameHeight="286"/>
+	<SubTexture name="sonicnew dance0020" x="681" y="1" width="226" height="281" frameX="-0" frameY="-1" frameWidth="227" frameHeight="286"/>
+	<SubTexture name="sonicnew dance0021" x="1" y="1" width="226" height="282" frameX="-0" frameY="-1" frameWidth="227" frameHeight="286"/>
+	<SubTexture name="sonicnew dance0022" x="1" y="1" width="226" height="282" frameX="-0" frameY="-1" frameWidth="227" frameHeight="286"/>
+	<SubTexture name="sonicnew dance0023" x="1" y="1" width="226" height="282" frameX="-0" frameY="-1" frameWidth="227" frameHeight="286"/>
+	<SubTexture name="sonicnew dance0024" x="1" y="1" width="226" height="282" frameX="-0" frameY="-1" frameWidth="227" frameHeight="286"/>
+	<SubTexture name="sonicnew dance0025" x="1" y="1" width="226" height="282" frameX="-0" frameY="-1" frameWidth="227" frameHeight="286"/>
+	<SubTexture name="sonicnew idle0000" x="228" y="1" width="227" height="281" frameX="-0" frameY="-1" frameWidth="227" frameHeight="285"/>
+	<SubTexture name="sonicnew idle0001" x="228" y="1" width="227" height="281" frameX="-0" frameY="-1" frameWidth="227" frameHeight="285"/>
+	<SubTexture name="sonicnew idle0002" x="1" y="567" width="227" height="277" frameX="-0" frameY="-7" frameWidth="227" frameHeight="285"/>
+	<SubTexture name="sonicnew idle0003" x="1" y="567" width="227" height="277" frameX="-0" frameY="-7" frameWidth="227" frameHeight="285"/>
+	<SubTexture name="sonicnew idle0004" x="456" y="1" width="224" height="280" frameX="-3" frameY="-4" frameWidth="227" frameHeight="285"/>
+	<SubTexture name="sonicnew idle0005" x="456" y="1" width="224" height="280" frameX="-3" frameY="-4" frameWidth="227" frameHeight="285"/>
+	<SubTexture name="sonicnew idle0006" x="682" y="283" width="226" height="281" frameX="-1" frameY="-1" frameWidth="227" frameHeight="285"/>
+	<SubTexture name="sonicnew idle0007" x="682" y="283" width="226" height="281" frameX="-1" frameY="-1" frameWidth="227" frameHeight="285"/>
+	<SubTexture name="sonicnew idle0008" x="1" y="284" width="226" height="282" frameX="-1" frameY="-0" frameWidth="227" frameHeight="285"/>
+	<SubTexture name="sonicnew idle0009" x="1" y="284" width="226" height="282" frameX="-1" frameY="-0" frameWidth="227" frameHeight="285"/>
+	<SubTexture name="sonicnew idle0010" x="1" y="284" width="226" height="282" frameX="-1" frameY="-0" frameWidth="227" frameHeight="285"/>
+	<SubTexture name="sonicnew idle0011" x="1" y="284" width="226" height="282" frameX="-1" frameY="-0" frameWidth="227" frameHeight="285"/>
+	<SubTexture name="sonicnew idle0012" x="1" y="284" width="226" height="282" frameX="-1" frameY="-0" frameWidth="227" frameHeight="285"/>
+	<SubTexture name="sonicnew idle0013" x="1" y="284" width="226" height="282" frameX="-1" frameY="-0" frameWidth="227" frameHeight="285"/>
+	<SubTexture name="sonicnew idle0014" x="1" y="284" width="226" height="282" frameX="-1" frameY="-0" frameWidth="227" frameHeight="285"/>
+	<SubTexture name="sonicnew idle0015" x="1" y="284" width="226" height="282" frameX="-1" frameY="-0" frameWidth="227" frameHeight="285"/>
+</TextureAtlas>

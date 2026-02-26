@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="SKETCHHOG.png" width="1437" height="1366">
+	<SubTexture name="sketchhog dance0000" x="204" y="874" width="176" height="229" frameX="-7" frameY="-3" frameWidth="183" frameHeight="236"/>
+	<SubTexture name="sketchhog dance0001" x="204" y="874" width="176" height="229" frameX="-7" frameY="-3" frameWidth="183" frameHeight="236"/>
+	<SubTexture name="sketchhog dance0002" x="204" y="874" width="176" height="229" frameX="-7" frameY="-3" frameWidth="183" frameHeight="236"/>
+	<SubTexture name="sketchhog dance0003" x="577" y="878" width="173" height="231" frameX="-9" frameY="-3" frameWidth="183" frameHeight="236"/>
+	<SubTexture name="sketchhog dance0004" x="577" y="878" width="173" height="231" frameX="-9" frameY="-3" frameWidth="183" frameHeight="236"/>
+	<SubTexture name="sketchhog dance0005" x="577" y="878" width="173" height="231" frameX="-9" frameY="-3" frameWidth="183" frameHeight="236"/>
+	<SubTexture name="sketchhog dance0006" x="177" y="1" width="178" height="205" frameX="-0" frameY="-31" frameWidth="183" frameHeight="236"/>
+	<SubTexture name="sketchhog dance0007" x="177" y="1" width="178" height="205" frameX="-0" frameY="-31" frameWidth="183" frameHeight="236"/>
+	<SubTexture name="sketchhog dance0008" x="177" y="1" width="178" height="205" frameX="-0" frameY="-31" frameWidth="183" frameHeight="236"/>
+	<SubTexture name="sketchhog dance0009" x="1" y="1" width="175" height="201" frameX="-0" frameY="-31" frameWidth="183" frameHeight="236"/>
+	<SubTexture name="sketchhog dance0010" x="1" y="1" width="175" height="201" frameX="-0" frameY="-31" frameWidth="183" frameHeight="236"/>
+	<SubTexture name="sketchhog dance0011" x="1" y="1" width="175" height="201" frameX="-0" frameY="-31" frameWidth="183" frameHeight="236"/>
+	<SubTexture name="sketchhog dance0012" x="1272" y="656" width="164" height="228" frameX="-2" frameY="-0" frameWidth="183" frameHeight="236"/>
+	<SubTexture name="sketchhog dance0013" x="1272" y="656" width="164" height="228" frameX="-2" frameY="-0" frameWidth="183" frameHeight="236"/>
+	<SubTexture name="sketchhog dance0014" x="1272" y="656" width="164" height="228" frameX="-2" frameY="-0" frameWidth="183" frameHeight="236"/>
+	<SubTexture name="sketchhog dance0015" x="1" y="640" width="158" height="224" frameX="-3" frameY="-7" frameWidth="183" frameHeight="236"/>
+	<SubTexture name="sketchhog dance0016" x="1" y="640" width="158" height="224" frameX="-3" frameY="-7" frameWidth="183" frameHeight="236"/>
+	<SubTexture name="sketchhog dance0017" x="1" y="640" width="158" height="224" frameX="-3" frameY="-7" frameWidth="183" frameHeight="236"/>
+	<SubTexture name="sketchhog dance0018" x="177" y="1" width="178" height="205" frameX="-0" frameY="-31" frameWidth="183" frameHeight="236"/>
+	<SubTexture name="sketchhog dance0019" x="177" y="1" width="178" height="205" frameX="-0" frameY="-31" frameWidth="183" frameHeight="236"/>
+	<SubTexture name="sketchhog dance0020" x="177" y="1" width="178" height="205" frameX="-0" frameY="-31" frameWidth="183" frameHeight="236"/>
+	<SubTexture name="sketchhog dance0021" x="1" y="1" width="175" height="201" frameX="-0" frameY="-31" frameWidth="183" frameHeight="236"/>
+	<SubTexture name="sketchhog dance0022" x="1" y="1" width="175" height="201" frameX="-0" frameY="-31" frameWidth="183" frameHeight="236"/>
+	<SubTexture name="sketchhog dance0023" x="1" y="1" width="175" height="201" frameX="-0" frameY="-31" frameWidth="183" frameHeight="236"/>
+	<SubTexture name="sketchhog down0000" x="1167" y="1" width="188" height="212" frameX="-0" frameY="-3" frameWidth="188" frameHeight="217"/>
+	<SubTexture name="sketchhog down0001" x="1167" y="1" width="188" height="212" frameX="-0" frameY="-3" frameWidth="188" frameHeight="217"/>
+	<SubTexture name="sketchhog down0002" x="1167" y="1" width="188" height="212" frameX="-0" frameY="-3" frameWidth="188" frameHeight="217"/>
+	<SubTexture name="sketchhog down0003" x="638" y="213" width="182" height="215" frameX="-6" frameY="-2" frameWidth="188" frameHeight="217"/>
+	<SubTexture name="sketchhog down0004" x="638" y="213" width="182" height="215" frameX="-6" frameY="-2" frameWidth="188" frameHeight="217"/>
+	<SubTexture name="sketchhog down0005" x="638" y="213" width="182" height="215" frameX="-6" frameY="-2" frameWidth="188" frameHeight="217"/>
+	<SubTexture name="sketchhog down0006" x="773" y="1" width="178" height="211" frameX="-7" frameY="-3" frameWidth="188" frameHeight="217"/>
+	<SubTexture name="sketchhog down0007" x="773" y="1" width="178" height="211" frameX="-7" frameY="-3" frameWidth="188" frameHeight="217"/>
+	<SubTexture name="sketchhog down0008" x="773" y="1" width="178" height="211" frameX="-7" frameY="-3" frameWidth="188" frameHeight="217"/>
+	<SubTexture name="sketchhog down0009" x="1242" y="214" width="176" height="217" frameX="-9" frameY="-0" frameWidth="188" frameHeight="217"/>
+	<SubTexture name="sketchhog down0010" x="1242" y="214" width="176" height="217" frameX="-9" frameY="-0" frameWidth="188" frameHeight="217"/>
+	<SubTexture name="sketchhog down0011" x="1242" y="214" width="176" height="217" frameX="-9" frameY="-0" frameWidth="188" frameHeight="217"/>
+	<SubTexture name="sketchhog hey0000" x="398" y="1110" width="196" height="236" frameX="-0" frameY="-1" frameWidth="196" frameHeight="237"/>
+	<SubTexture name="sketchhog hey0001" x="398" y="1110" width="196" height="236" frameX="-0" frameY="-1" frameWidth="196" frameHeight="237"/>
+	<SubTexture name="sketchhog hey0002" x="398" y="1110" width="196" height="236" frameX="-0" frameY="-1" frameWidth="196" frameHeight="237"/>
+	<SubTexture name="sketchhog hey0003" x="381" y="877" width="195" height="230" frameX="-1" frameY="-3" frameWidth="196" frameHeight="237"/>
+	<SubTexture name="sketchhog hey0004" x="381" y="877" width="195" height="230" frameX="-1" frameY="-3" frameWidth="196" frameHeight="237"/>
+	<SubTexture name="sketchhog hey0005" x="381" y="877" width="195" height="230" frameX="-1" frameY="-3" frameWidth="196" frameHeight="237"/>
+	<SubTexture name="sketchhog hey0006" x="751" y="881" width="191" height="231" frameX="-1" frameY="-0" frameWidth="196" frameHeight="237"/>
+	<SubTexture name="sketchhog hey0007" x="751" y="881" width="191" height="231" frameX="-1" frameY="-0" frameWidth="196" frameHeight="237"/>
+	<SubTexture name="sketchhog hey0008" x="751" y="881" width="191" height="231" frameX="-1" frameY="-0" frameWidth="196" frameHeight="237"/>
+	<SubTexture name="sketchhog hey0009" x="943" y="883" width="192" height="231" frameX="-0" frameY="-0" frameWidth="196" frameHeight="237"/>
+	<SubTexture name="sketchhog hey0010" x="943" y="883" width="192" height="231" frameX="-0" frameY="-0" frameWidth="196" frameHeight="237"/>
+	<SubTexture name="sketchhog hey0011" x="943" y="883" width="192" height="231" frameX="-0" frameY="-0" frameWidth="196" frameHeight="237"/>
+	<SubTexture name="sketchhog hey0012" x="381" y="877" width="195" height="230" frameX="-1" frameY="-3" frameWidth="196" frameHeight="237"/>
+	<SubTexture name="sketchhog hey0013" x="381" y="877" width="195" height="230" frameX="-1" frameY="-3" frameWidth="196" frameHeight="237"/>
+	<SubTexture name="sketchhog hey0014" x="381" y="877" width="195" height="230" frameX="-1" frameY="-3" frameWidth="196" frameHeight="237"/>
+	<SubTexture name="sketchhog hey0015" x="751" y="881" width="191" height="231" frameX="-1" frameY="-0" frameWidth="196" frameHeight="237"/>
+	<SubTexture name="sketchhog hey0016" x="751" y="881" width="191" height="231" frameX="-1" frameY="-0" frameWidth="196" frameHeight="237"/>
+	<SubTexture name="sketchhog hey0017" x="751" y="881" width="191" height="231" frameX="-1" frameY="-0" frameWidth="196" frameHeight="237"/>
+	<SubTexture name="sketchhog hey0018" x="943" y="883" width="192" height="231" frameX="-0" frameY="-0" frameWidth="196" frameHeight="237"/>
+	<SubTexture name="sketchhog hey0019" x="943" y="883" width="192" height="231" frameX="-0" frameY="-0" frameWidth="196" frameHeight="237"/>
+	<SubTexture name="sketchhog hey0020" x="943" y="883" width="192" height="231" frameX="-0" frameY="-0" frameWidth="196" frameHeight="237"/>
+	<SubTexture name="sketchhog hurt0000" x="434" y="212" width="203" height="214" frameX="-9" frameY="-1" frameWidth="212" frameHeight="215"/>
+	<SubTexture name="sketchhog hurt0001" x="434" y="212" width="203" height="214" frameX="-9" frameY="-1" frameWidth="212" frameHeight="215"/>
+	<SubTexture name="sketchhog hurt0002" x="434" y="212" width="203" height="214" frameX="-9" frameY="-1" frameWidth="212" frameHeight="215"/>
+	<SubTexture name="sketchhog hurt0003" x="1" y="207" width="212" height="213" frameX="-0" frameY="-2" frameWidth="212" frameHeight="215"/>
+	<SubTexture name="sketchhog hurt0004" x="1" y="207" width="212" height="213" frameX="-0" frameY="-2" frameWidth="212" frameHeight="215"/>
+	<SubTexture name="sketchhog hurt0005" x="1" y="207" width="212" height="213" frameX="-0" frameY="-2" frameWidth="212" frameHeight="215"/>
+	<SubTexture name="sketchhog hurt0006" x="356" y="1" width="205" height="210" frameX="-3" frameY="-3" frameWidth="212" frameHeight="215"/>
+	<SubTexture name="sketchhog hurt0007" x="356" y="1" width="205" height="210" frameX="-3" frameY="-3" frameWidth="212" frameHeight="215"/>
+	<SubTexture name="sketchhog hurt0008" x="356" y="1" width="205" height="210" frameX="-3" frameY="-3" frameWidth="212" frameHeight="215"/>
+	<SubTexture name="sketchhog hurt0009" x="821" y="213" width="206" height="215" frameX="-3" frameY="-0" frameWidth="212" frameHeight="215"/>
+	<SubTexture name="sketchhog hurt0010" x="821" y="213" width="206" height="215" frameX="-3" frameY="-0" frameWidth="212" frameHeight="215"/>
+	<SubTexture name="sketchhog hurt0011" x="821" y="213" width="206" height="215" frameX="-3" frameY="-0" frameWidth="212" frameHeight="215"/>
+	<SubTexture name="sketchhog idle0000" x="160" y="647" width="191" height="224" frameX="-4" frameY="-3" frameWidth="201" frameHeight="227"/>
+	<SubTexture name="sketchhog idle0001" x="160" y="647" width="191" height="224" frameX="-4" frameY="-3" frameWidth="201" frameHeight="227"/>
+	<SubTexture name="sketchhog idle0002" x="160" y="647" width="191" height="224" frameX="-4" frameY="-3" frameWidth="201" frameHeight="227"/>
+	<SubTexture name="sketchhog idle0003" x="922" y="431" width="195" height="223" frameX="-3" frameY="-1" frameWidth="201" frameHeight="227"/>
+	<SubTexture name="sketchhog idle0004" x="922" y="431" width="195" height="223" frameX="-3" frameY="-1" frameWidth="201" frameHeight="227"/>
+	<SubTexture name="sketchhog idle0005" x="922" y="431" width="195" height="223" frameX="-3" frameY="-1" frameWidth="201" frameHeight="227"/>
+	<SubTexture name="sketchhog idle0006" x="1071" y="656" width="200" height="226" frameX="-0" frameY="-0" frameWidth="201" frameHeight="227"/>
+	<SubTexture name="sketchhog idle0007" x="1071" y="656" width="200" height="226" frameX="-0" frameY="-0" frameWidth="201" frameHeight="227"/>
+	<SubTexture name="sketchhog idle0008" x="1071" y="656" width="200" height="226" frameX="-0" frameY="-0" frameWidth="201" frameHeight="227"/>
+	<SubTexture name="sketchhog idle0009" x="693" y="652" width="196" height="225" frameX="-5" frameY="-0" frameWidth="201" frameHeight="227"/>
+	<SubTexture name="sketchhog idle0010" x="693" y="652" width="196" height="225" frameX="-5" frameY="-0" frameWidth="201" frameHeight="227"/>
+	<SubTexture name="sketchhog idle0011" x="693" y="652" width="196" height="225" frameX="-5" frameY="-0" frameWidth="201" frameHeight="227"/>
+	<SubTexture name="sketchhog idle0012" x="561" y="429" width="192" height="222" frameX="-6" frameY="-3" frameWidth="201" frameHeight="227"/>
+	<SubTexture name="sketchhog idle0013" x="561" y="429" width="192" height="222" frameX="-6" frameY="-3" frameWidth="201" frameHeight="227"/>
+	<SubTexture name="sketchhog idle0014" x="561" y="429" width="192" height="222" frameX="-6" frameY="-3" frameWidth="201" frameHeight="227"/>
+	<SubTexture name="sketchhog idle0015" x="1" y="421" width="191" height="218" frameX="-8" frameY="-5" frameWidth="201" frameHeight="227"/>
+	<SubTexture name="sketchhog idle0016" x="1" y="421" width="191" height="218" frameX="-8" frameY="-5" frameWidth="201" frameHeight="227"/>
+	<SubTexture name="sketchhog idle0017" x="1" y="421" width="191" height="218" frameX="-8" frameY="-5" frameWidth="201" frameHeight="227"/>
+	<SubTexture name="sketchhog idle0018" x="193" y="426" width="188" height="220" frameX="-8" frameY="-3" frameWidth="201" frameHeight="227"/>
+	<SubTexture name="sketchhog idle0019" x="193" y="426" width="188" height="220" frameX="-8" frameY="-3" frameWidth="201" frameHeight="227"/>
+	<SubTexture name="sketchhog idle0020" x="193" y="426" width="188" height="220" frameX="-8" frameY="-3" frameWidth="201" frameHeight="227"/>
+	<SubTexture name="sketchhog left0000" x="214" y="212" width="219" height="213" frameX="-0" frameY="-0" frameWidth="220" frameHeight="216"/>
+	<SubTexture name="sketchhog left0001" x="214" y="212" width="219" height="213" frameX="-0" frameY="-0" frameWidth="220" frameHeight="216"/>
+	<SubTexture name="sketchhog left0002" x="214" y="212" width="219" height="213" frameX="-0" frameY="-0" frameWidth="220" frameHeight="216"/>
+	<SubTexture name="sketchhog left0003" x="1028" y="214" width="213" height="216" frameX="-7" frameY="-0" frameWidth="220" frameHeight="216"/>
+	<SubTexture name="sketchhog left0004" x="1028" y="214" width="213" height="216" frameX="-7" frameY="-0" frameWidth="220" frameHeight="216"/>
+	<SubTexture name="sketchhog left0005" x="1028" y="214" width="213" height="216" frameX="-7" frameY="-0" frameWidth="220" frameHeight="216"/>
+	<SubTexture name="sketchhog left0006" x="562" y="1" width="210" height="210" frameX="-7" frameY="-4" frameWidth="220" frameHeight="216"/>
+	<SubTexture name="sketchhog left0007" x="562" y="1" width="210" height="210" frameX="-7" frameY="-4" frameWidth="220" frameHeight="216"/>
+	<SubTexture name="sketchhog left0008" x="562" y="1" width="210" height="210" frameX="-7" frameY="-4" frameWidth="220" frameHeight="216"/>
+	<SubTexture name="sketchhog left0009" x="952" y="1" width="214" height="211" frameX="-6" frameY="-1" frameWidth="220" frameHeight="216"/>
+	<SubTexture name="sketchhog left0010" x="952" y="1" width="214" height="211" frameX="-6" frameY="-1" frameWidth="220" frameHeight="216"/>
+	<SubTexture name="sketchhog left0011" x="952" y="1" width="214" height="211" frameX="-6" frameY="-1" frameWidth="220" frameHeight="216"/>
+	<SubTexture name="sketchhog right0000" x="1" y="872" width="202" height="226" frameX="-8" frameY="-4" frameWidth="210" frameHeight="233"/>
+	<SubTexture name="sketchhog right0001" x="1" y="872" width="202" height="226" frameX="-8" frameY="-4" frameWidth="210" frameHeight="233"/>
+	<SubTexture name="sketchhog right0002" x="1" y="872" width="202" height="226" frameX="-8" frameY="-4" frameWidth="210" frameHeight="233"/>
+	<SubTexture name="sketchhog right0003" x="199" y="1108" width="198" height="232" frameX="-0" frameY="-1" frameWidth="210" frameHeight="233"/>
+	<SubTexture name="sketchhog right0004" x="199" y="1108" width="198" height="232" frameX="-0" frameY="-1" frameWidth="210" frameHeight="233"/>
+	<SubTexture name="sketchhog right0005" x="199" y="1108" width="198" height="232" frameX="-0" frameY="-1" frameWidth="210" frameHeight="233"/>
+	<SubTexture name="sketchhog right0006" x="1136" y="885" width="200" height="231" frameX="-2" frameY="-0" frameWidth="210" frameHeight="233"/>
+	<SubTexture name="sketchhog right0007" x="1136" y="885" width="200" height="231" frameX="-2" frameY="-0" frameWidth="210" frameHeight="233"/>
+	<SubTexture name="sketchhog right0008" x="1136" y="885" width="200" height="231" frameX="-2" frameY="-0" frameWidth="210" frameHeight="233"/>
+	<SubTexture name="sketchhog right0009" x="1" y="1099" width="197" height="231" frameX="-3" frameY="-0" frameWidth="210" frameHeight="233"/>
+	<SubTexture name="sketchhog right0010" x="1" y="1099" width="197" height="231" frameX="-3" frameY="-0" frameWidth="210" frameHeight="233"/>
+	<SubTexture name="sketchhog right0011" x="1" y="1099" width="197" height="231" frameX="-3" frameY="-0" frameWidth="210" frameHeight="233"/>
+	<SubTexture name="sketchhog up0000" x="595" y="1113" width="197" height="247" frameX="-0" frameY="-1" frameWidth="203" frameHeight="248"/>
+	<SubTexture name="sketchhog up0001" x="595" y="1113" width="197" height="247" frameX="-0" frameY="-1" frameWidth="203" frameHeight="248"/>
+	<SubTexture name="sketchhog up0002" x="595" y="1113" width="197" height="247" frameX="-0" frameY="-1" frameWidth="203" frameHeight="248"/>
+	<SubTexture name="sketchhog up0003" x="793" y="1115" width="202" height="247" frameX="-1" frameY="-1" frameWidth="203" frameHeight="248"/>
+	<SubTexture name="sketchhog up0004" x="793" y="1115" width="202" height="247" frameX="-1" frameY="-1" frameWidth="203" frameHeight="248"/>
+	<SubTexture name="sketchhog up0005" x="793" y="1115" width="202" height="247" frameX="-1" frameY="-1" frameWidth="203" frameHeight="248"/>
+	<SubTexture name="sketchhog up0006" x="1198" y="1117" width="199" height="248" frameX="-0" frameY="-0" frameWidth="203" frameHeight="248"/>
+	<SubTexture name="sketchhog up0007" x="1198" y="1117" width="199" height="248" frameX="-0" frameY="-0" frameWidth="203" frameHeight="248"/>
+	<SubTexture name="sketchhog up0008" x="1198" y="1117" width="199" height="248" frameX="-0" frameY="-0" frameWidth="203" frameHeight="248"/>
+	<SubTexture name="sketchhog up0009" x="996" y="1117" width="201" height="247" frameX="-0" frameY="-0" frameWidth="203" frameHeight="248"/>
+	<SubTexture name="sketchhog up0010" x="996" y="1117" width="201" height="247" frameX="-0" frameY="-0" frameWidth="203" frameHeight="248"/>
+	<SubTexture name="sketchhog up0011" x="996" y="1117" width="201" height="247" frameX="-0" frameY="-0" frameWidth="203" frameHeight="248"/>
+	<SubTexture name="sketchhog waiting 10000" x="890" y="655" width="180" height="225" frameX="-0" frameY="-0" frameWidth="181" frameHeight="227"/>
+	<SubTexture name="sketchhog waiting 10001" x="890" y="655" width="180" height="225" frameX="-0" frameY="-0" frameWidth="181" frameHeight="227"/>
+	<SubTexture name="sketchhog waiting 10002" x="890" y="655" width="180" height="225" frameX="-0" frameY="-0" frameWidth="181" frameHeight="227"/>
+	<SubTexture name="sketchhog waiting 10003" x="382" y="427" width="178" height="221" frameX="-3" frameY="-5" frameWidth="181" frameHeight="227"/>
+	<SubTexture name="sketchhog waiting 10004" x="382" y="427" width="178" height="221" frameX="-3" frameY="-5" frameWidth="181" frameHeight="227"/>
+	<SubTexture name="sketchhog waiting 10005" x="382" y="427" width="178" height="221" frameX="-3" frameY="-5" frameWidth="181" frameHeight="227"/>
+	<SubTexture name="sketchhog waiting 10006" x="754" y="429" width="167" height="222" frameX="-9" frameY="-4" frameWidth="181" frameHeight="227"/>
+	<SubTexture name="sketchhog waiting 10007" x="754" y="429" width="167" height="222" frameX="-9" frameY="-4" frameWidth="181" frameHeight="227"/>
+	<SubTexture name="sketchhog waiting 10008" x="754" y="429" width="167" height="222" frameX="-9" frameY="-4" frameWidth="181" frameHeight="227"/>
+	<SubTexture name="sketchhog waiting 10009" x="352" y="649" width="171" height="224" frameX="-9" frameY="-3" frameWidth="181" frameHeight="227"/>
+	<SubTexture name="sketchhog waiting 10010" x="352" y="649" width="171" height="224" frameX="-9" frameY="-3" frameWidth="181" frameHeight="227"/>
+	<SubTexture name="sketchhog waiting 10011" x="352" y="649" width="171" height="224" frameX="-9" frameY="-3" frameWidth="181" frameHeight="227"/>
+	<SubTexture name="sketchhog waiting 10012" x="1118" y="432" width="170" height="223" frameX="-11" frameY="-4" frameWidth="181" frameHeight="227"/>
+	<SubTexture name="sketchhog waiting 10013" x="1118" y="432" width="170" height="223" frameX="-11" frameY="-4" frameWidth="181" frameHeight="227"/>
+	<SubTexture name="sketchhog waiting 10014" x="1118" y="432" width="170" height="223" frameX="-11" frameY="-4" frameWidth="181" frameHeight="227"/>
+	<SubTexture name="sketchhog waiting 10015" x="524" y="652" width="168" height="224" frameX="-9" frameY="-3" frameWidth="181" frameHeight="227"/>
+	<SubTexture name="sketchhog waiting 10016" x="524" y="652" width="168" height="224" frameX="-9" frameY="-3" frameWidth="181" frameHeight="227"/>
+	<SubTexture name="sketchhog waiting 10017" x="524" y="652" width="168" height="224" frameX="-9" frameY="-3" frameWidth="181" frameHeight="227"/>
+</TextureAtlas>

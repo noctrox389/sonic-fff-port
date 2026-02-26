@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="bomb.png" width="471" height="408">
+	<SubTexture name="bomb instance 10000" x="336.5" y="288.5" width="124" height="119" frameX="-0" frameY="-0" frameWidth="124.5" frameHeight="119.5"/>
+	<SubTexture name="explosion instance 10000" x="363.5" y="0.5" width="94" height="82" frameX="-49" frameY="-56" frameWidth="190" frameHeight="183.5"/>
+	<SubTexture name="explosion instance 10001" x="336.5" y="163" width="133.5" height="125" frameX="-26" frameY="-32.5" frameWidth="190" frameHeight="183.5"/>
+	<SubTexture name="explosion instance 10002" x="336.5" y="163" width="133.5" height="125" frameX="-26" frameY="-32.5" frameWidth="190" frameHeight="183.5"/>
+	<SubTexture name="explosion instance 10003" x="182" y="184.5" width="154" height="153.5" frameX="-19" frameY="-11" frameWidth="190" frameHeight="183.5"/>
+	<SubTexture name="explosion instance 10004" x="182" y="184.5" width="154" height="153.5" frameX="-19" frameY="-11" frameWidth="190" frameHeight="183.5"/>
+	<SubTexture name="explosion instance 10005" x="190.5" y="0.5" width="172.5" height="162" frameX="-10.5" frameY="-7.5" frameWidth="190" frameHeight="183.5"/>
+	<SubTexture name="explosion instance 10006" x="190.5" y="0.5" width="172.5" height="162" frameX="-10.5" frameY="-7.5" frameWidth="190" frameHeight="183.5"/>
+	<SubTexture name="explosion instance 10007" x="0.5" y="184.5" width="181" height="175" frameX="-5.5" frameY="-2.5" frameWidth="190" frameHeight="183.5"/>
+	<SubTexture name="explosion instance 10008" x="0.5" y="184.5" width="181" height="175" frameX="-5.5" frameY="-2.5" frameWidth="190" frameHeight="183.5"/>
+	<SubTexture name="explosion instance 10009" x="0.5" y="0.5" width="189.5" height="183.5" frameX="-0" frameY="-0" frameWidth="190" frameHeight="183.5"/>
+	<SubTexture name="explosion instance 10010" x="0.5" y="0.5" width="189.5" height="183.5" frameX="-0" frameY="-0" frameWidth="190" frameHeight="183.5"/>
+	<SubTexture name="explosion instance 10011" x="0.5" y="360" width="0.5" height="0.5" frameX="-0" frameY="-0" frameWidth="190" frameHeight="183.5"/>
+	<SubTexture name="target instance 10000" x="363.5" y="83" width="74.5" height="73.5" frameX="-0" frameY="-0" frameWidth="75" frameHeight="74"/>
+</TextureAtlas>

@@ -1,0 +1,87 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [95, -182],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "shadow left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-10, -235],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "shadow right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [32, -348],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "shadow down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [75, -179],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "shadow up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [82, 73],
+			"anim": "chaoscontrol",
+			"fps": 24,
+			"name": "shadow chaos control",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [180, -230],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "shadow hurt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [29, -216],
+			"anim": "idle",
+			"fps": 24,
+			"name": "shadow idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [205, 115],
+			"anim": "ready",
+			"fps": 24,
+			"name": "shadow ready",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [200, -231],
+			"anim": "shoot",
+			"fps": 24,
+			"name": "shadow shoot",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/sonic/shadow",
+	"position": [165, 225],
+	"healthicon": "shadow",
+	"flip_x": false,
+	"healthbar_colors": [76, 55, 83],
+	"camera_position": [-185, -125],
+	"sing_duration": 4,
+	"scale": 2,
+	"_editor_isPlayer": false
+}

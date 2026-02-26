@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="quicktimesplash.png" width="455" height="384">
+	<SubTexture name="quicktimesplash instance 10000" x="1" y="351" width="33" height="32" frameX="-80" frameY="-82" frameWidth="195" frameHeight="195"/>
+	<SubTexture name="quicktimesplash instance 10001" x="316" y="290" width="80" height="72" frameX="-57" frameY="-62" frameWidth="195" frameHeight="195"/>
+	<SubTexture name="quicktimesplash instance 10002" x="316" y="156" width="126" height="133" frameX="-42" frameY="-26" frameWidth="195" frameHeight="195"/>
+	<SubTexture name="quicktimesplash instance 10003" x="312" y="1" width="142" height="154" frameX="-35" frameY="-14" frameWidth="195" frameHeight="195"/>
+	<SubTexture name="quicktimesplash instance 10004" x="312" y="1" width="142" height="154" frameX="-35" frameY="-14" frameWidth="195" frameHeight="195"/>
+	<SubTexture name="quicktimesplash instance 10005" x="163" y="171" width="152" height="165" frameX="-31" frameY="-8" frameWidth="195" frameHeight="195"/>
+	<SubTexture name="quicktimesplash instance 10006" x="163" y="171" width="152" height="165" frameX="-31" frameY="-8" frameWidth="195" frameHeight="195"/>
+	<SubTexture name="quicktimesplash instance 10007" x="154" y="1" width="157" height="169" frameX="-29" frameY="-6" frameWidth="195" frameHeight="195"/>
+	<SubTexture name="quicktimesplash instance 10008" x="1" y="177" width="161" height="173" frameX="-27" frameY="-4" frameWidth="195" frameHeight="195"/>
+	<SubTexture name="quicktimesplash instance 10009" x="1" y="1" width="152" height="175" frameX="-35" frameY="-3" frameWidth="195" frameHeight="195"/>
+	<SubTexture name="quicktimesplash instance 10010" x="35" y="351" width="111" height="32" frameX="-78" frameY="-2" frameWidth="195" frameHeight="195"/>
+	<SubTexture name="quicktimesplash instance 10011" x="154" y="171" width="1" height="1" frameX="-0" frameY="-0" frameWidth="195" frameHeight="195"/>
+	<SubTexture name="quicktimesplash instance 10012" x="154" y="171" width="1" height="1" frameX="-0" frameY="-0" frameWidth="195" frameHeight="195"/>
+</TextureAtlas>

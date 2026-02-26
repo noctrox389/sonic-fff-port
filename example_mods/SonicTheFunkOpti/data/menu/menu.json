@@ -1,0 +1,27 @@
+{
+	"player1": "bf",
+	"player2": "sonic_opp",
+	"events": [],
+	"notes": [
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"gfSection": false,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 150
+		}
+	],
+	"gfVersion": "gf",
+	"disableNoteRGB": true,
+	"offset": 0,
+	"splashSkin": "noteSplashes-sonic",
+	"song": "Menu",
+	"arrowSkin": "NOTE_assets-sonic",
+	"stage": "stage",
+	"needsVoices": false,
+	"format": "psych_v1",
+	"speed": 2.2,
+	"bpm": 125
+}

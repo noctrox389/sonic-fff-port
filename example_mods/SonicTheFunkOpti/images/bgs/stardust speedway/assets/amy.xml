@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="amy.png" width="720" height="757">
+	<SubTexture name="amy happy0000" x="189" y="1" width="170" height="190" frameX="-5" frameY="-0" frameWidth="178" frameHeight="190"/>
+	<SubTexture name="amy happy0001" x="360" y="1" width="172" height="190" frameX="-4" frameY="-0" frameWidth="178" frameHeight="190"/>
+	<SubTexture name="amy happy0002" x="533" y="1" width="178" height="190" frameX="-0" frameY="-0" frameWidth="178" frameHeight="190"/>
+	<SubTexture name="amy happy0003" x="189" y="383" width="178" height="186" frameX="-0" frameY="-4" frameWidth="178" frameHeight="190"/>
+	<SubTexture name="amy happy0004" x="189" y="570" width="178" height="186" frameX="-0" frameY="-4" frameWidth="178" frameHeight="190"/>
+	<SubTexture name="amy happy0005" x="368" y="383" width="172" height="186" frameX="-4" frameY="-4" frameWidth="178" frameHeight="190"/>
+	<SubTexture name="amy happy0006" x="368" y="570" width="170" height="186" frameX="-5" frameY="-4" frameWidth="178" frameHeight="190"/>
+	<SubTexture name="amy happy0007" x="539" y="570" width="172" height="186" frameX="-4" frameY="-4" frameWidth="178" frameHeight="190"/>
+	<SubTexture name="amy happy0008" x="541" y="383" width="178" height="186" frameX="-0" frameY="-4" frameWidth="178" frameHeight="190"/>
+	<SubTexture name="amy happy0009" x="189" y="192" width="178" height="190" frameX="-0" frameY="-0" frameWidth="178" frameHeight="190"/>
+	<SubTexture name="amy happy0010" x="368" y="192" width="178" height="190" frameX="-0" frameY="-0" frameWidth="178" frameHeight="190"/>
+	<SubTexture name="amy happy0011" x="547" y="192" width="172" height="190" frameX="-4" frameY="-0" frameWidth="178" frameHeight="190"/>
+	<SubTexture name="amy hostage0000" x="1" y="1" width="93" height="319" frameX="-0" frameY="-0" frameWidth="93" frameHeight="319"/>
+	<SubTexture name="amy hostage0001" x="1" y="1" width="93" height="319" frameX="-0" frameY="-0" frameWidth="93" frameHeight="319"/>
+	<SubTexture name="amy hostage0002" x="1" y="1" width="93" height="319" frameX="-0" frameY="-0" frameWidth="93" frameHeight="319"/>
+	<SubTexture name="amy hostage0003" x="1" y="321" width="93" height="319" frameX="-0" frameY="-0" frameWidth="93" frameHeight="319"/>
+	<SubTexture name="amy hostage0004" x="1" y="321" width="93" height="319" frameX="-0" frameY="-0" frameWidth="93" frameHeight="319"/>
+	<SubTexture name="amy hostage0005" x="1" y="321" width="93" height="319" frameX="-0" frameY="-0" frameWidth="93" frameHeight="319"/>
+	<SubTexture name="amy hostage0006" x="95" y="1" width="93" height="319" frameX="-0" frameY="-0" frameWidth="93" frameHeight="319"/>
+	<SubTexture name="amy hostage0007" x="95" y="1" width="93" height="319" frameX="-0" frameY="-0" frameWidth="93" frameHeight="319"/>
+	<SubTexture name="amy hostage0008" x="95" y="1" width="93" height="319" frameX="-0" frameY="-0" frameWidth="93" frameHeight="319"/>
+	<SubTexture name="amy hostage0009" x="95" y="321" width="93" height="319" frameX="-0" frameY="-0" frameWidth="93" frameHeight="319"/>
+	<SubTexture name="amy hostage0010" x="95" y="321" width="93" height="319" frameX="-0" frameY="-0" frameWidth="93" frameHeight="319"/>
+	<SubTexture name="amy hostage0011" x="95" y="321" width="93" height="319" frameX="-0" frameY="-0" frameWidth="93" frameHeight="319"/>
+</TextureAtlas>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="sparkles.png" width="299" height="249">
+	<SubTexture name="sparkle0000" x="1" y="1" width="145" height="144" frameX="-2" frameY="-5" frameWidth="151" frameHeight="150"/>
+	<SubTexture name="sparkle0001" x="1" y="146" width="102" height="102" frameX="-23" frameY="-26" frameWidth="151" frameHeight="150"/>
+	<SubTexture name="sparkle0002" x="147" y="1" width="151" height="147" frameX="-0" frameY="-0" frameWidth="151" frameHeight="150"/>
+	<SubTexture name="sparkle0003" x="104" y="149" width="99" height="99" frameX="-27" frameY="-24" frameWidth="151" frameHeight="150"/>
+	<SubTexture name="sparkle0004" x="204" y="149" width="66" height="66" frameX="-44" frameY="-39" frameWidth="151" frameHeight="150"/>
+</TextureAtlas>

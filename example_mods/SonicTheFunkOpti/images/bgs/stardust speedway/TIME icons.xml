@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="TIME icons.png" width="231" height="150">
+	<SubTexture name="icon SIGNfuture instance 10000" x="1" y="1" width="123" height="59" frameX="-0" frameY="-1" frameWidth="123" frameHeight="60"/>
+	<SubTexture name="icon SIGNpast instance 10000" x="107" y="90" width="122" height="59" frameX="-0" frameY="-0" frameWidth="122" frameHeight="60"/>
+	<SubTexture name="icon future instance 10000" x="1" y="61" width="105" height="87" frameX="-1" frameY="-0" frameWidth="106" frameHeight="87"/>
+	<SubTexture name="icon past instance 10000" x="125" y="1" width="105" height="88" frameX="-1" frameY="-0" frameWidth="106" frameHeight="88"/>
+</TextureAtlas>

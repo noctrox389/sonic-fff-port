@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="winorlose.png" width="537" height="709">
+	<SubTexture name="TXTsuccess0000" x="1" y="438" width="456" height="134" frameX="-0" frameY="-1" frameWidth="457" frameHeight="136"/>
+	<SubTexture name="TXTsuccess0001" x="1" y="438" width="456" height="134" frameX="-0" frameY="-1" frameWidth="457" frameHeight="136"/>
+	<SubTexture name="TXTsuccess0002" x="1" y="438" width="456" height="134" frameX="-0" frameY="-1" frameWidth="457" frameHeight="136"/>
+	<SubTexture name="TXTsuccess0003" x="1" y="573" width="455" height="135" frameX="-0" frameY="-1" frameWidth="457" frameHeight="136"/>
+	<SubTexture name="TXTsuccess0004" x="1" y="573" width="455" height="135" frameX="-0" frameY="-1" frameWidth="457" frameHeight="136"/>
+	<SubTexture name="TXTsuccess0005" x="1" y="573" width="455" height="135" frameX="-0" frameY="-1" frameWidth="457" frameHeight="136"/>
+	<SubTexture name="TXTsuccess0006" x="1" y="302" width="457" height="135" frameX="-0" frameY="-0" frameWidth="457" frameHeight="136"/>
+	<SubTexture name="TXTsuccess0007" x="1" y="302" width="457" height="135" frameX="-0" frameY="-0" frameWidth="457" frameHeight="136"/>
+	<SubTexture name="TXTsuccess0008" x="1" y="302" width="457" height="135" frameX="-0" frameY="-0" frameWidth="457" frameHeight="136"/>
+	<SubTexture name="TXTtryagain0000" x="1" y="102" width="534" height="98" frameX="-0" frameY="-0" frameWidth="535" frameHeight="100"/>
+	<SubTexture name="TXTtryagain0001" x="1" y="102" width="534" height="98" frameX="-0" frameY="-0" frameWidth="535" frameHeight="100"/>
+	<SubTexture name="TXTtryagain0002" x="1" y="102" width="534" height="98" frameX="-0" frameY="-0" frameWidth="535" frameHeight="100"/>
+	<SubTexture name="TXTtryagain0003" x="1" y="201" width="534" height="100" frameX="-0" frameY="-0" frameWidth="535" frameHeight="100"/>
+	<SubTexture name="TXTtryagain0004" x="1" y="201" width="534" height="100" frameX="-0" frameY="-0" frameWidth="535" frameHeight="100"/>
+	<SubTexture name="TXTtryagain0005" x="1" y="201" width="534" height="100" frameX="-0" frameY="-0" frameWidth="535" frameHeight="100"/>
+	<SubTexture name="TXTtryagain0006" x="1" y="1" width="535" height="100" frameX="-0" frameY="-0" frameWidth="535" frameHeight="100"/>
+	<SubTexture name="TXTtryagain0007" x="1" y="1" width="535" height="100" frameX="-0" frameY="-0" frameWidth="535" frameHeight="100"/>
+	<SubTexture name="TXTtryagain0008" x="1" y="1" width="535" height="100" frameX="-0" frameY="-0" frameWidth="535" frameHeight="100"/>
+</TextureAtlas>

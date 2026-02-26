@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="shadow.png" width="2065" height="2064">
+	<SubTexture name="shadow chaos control0000" x="1817" y="1292" width="238" height="259" frameX="-14" frameY="-170" frameWidth="252" frameHeight="438"/>
+	<SubTexture name="shadow chaos control0001" x="1817" y="1292" width="238" height="259" frameX="-14" frameY="-170" frameWidth="252" frameHeight="438"/>
+	<SubTexture name="shadow chaos control0002" x="1817" y="1552" width="227" height="275" frameX="-20" frameY="-155" frameWidth="252" frameHeight="438"/>
+	<SubTexture name="shadow chaos control0003" x="1817" y="1552" width="227" height="275" frameX="-20" frameY="-155" frameWidth="252" frameHeight="438"/>
+	<SubTexture name="shadow chaos control0004" x="898" y="395" width="222" height="333" frameX="-16" frameY="-99" frameWidth="252" frameHeight="438"/>
+	<SubTexture name="shadow chaos control0005" x="453" y="1257" width="222" height="372" frameX="-16" frameY="-60" frameWidth="252" frameHeight="438"/>
+	<SubTexture name="shadow chaos control0006" x="453" y="847" width="225" height="409" frameX="-14" frameY="-24" frameWidth="252" frameHeight="438"/>
+	<SubTexture name="shadow chaos control0007" x="227" y="880" width="225" height="427" frameX="-14" frameY="-6" frameWidth="252" frameHeight="438"/>
+	<SubTexture name="shadow chaos control0008" x="1" y="880" width="225" height="433" frameX="-14" frameY="-0" frameWidth="252" frameHeight="438"/>
+	<SubTexture name="shadow chaos control0009" x="1" y="1314" width="225" height="433" frameX="-14" frameY="-0" frameWidth="252" frameHeight="438"/>
+	<SubTexture name="shadow chaos control0010" x="227" y="1308" width="225" height="427" frameX="-14" frameY="-6" frameWidth="252" frameHeight="438"/>
+	<SubTexture name="shadow chaos control0011" x="319" y="1" width="225" height="425" frameX="-14" frameY="-8" frameWidth="252" frameHeight="438"/>
+	<SubTexture name="shadow chaos control0012" x="545" y="1" width="225" height="411" frameX="-14" frameY="-22" frameWidth="252" frameHeight="438"/>
+	<SubTexture name="shadow chaos control0013" x="647" y="413" width="225" height="399" frameX="-14" frameY="-34" frameWidth="252" frameHeight="438"/>
+	<SubTexture name="shadow chaos control0014" x="679" y="813" width="219" height="362" frameX="-16" frameY="-70" frameWidth="252" frameHeight="438"/>
+	<SubTexture name="shadow chaos control0015" x="1189" y="1746" width="219" height="296" frameX="-16" frameY="-136" frameWidth="252" frameHeight="438"/>
+	<SubTexture name="shadow chaos control0016" x="1409" y="1743" width="205" height="293" frameX="-0" frameY="-144" frameWidth="252" frameHeight="438"/>
+	<SubTexture name="shadow chaos control0017" x="1409" y="1743" width="205" height="293" frameX="-0" frameY="-144" frameWidth="252" frameHeight="438"/>
+	<SubTexture name="shadow chaos control0018" x="1615" y="1743" width="201" height="293" frameX="-3" frameY="-145" frameWidth="252" frameHeight="438"/>
+	<SubTexture name="shadow chaos control0019" x="1615" y="1743" width="201" height="293" frameX="-3" frameY="-145" frameWidth="252" frameHeight="438"/>
+	<SubTexture name="shadow chaos control0020" x="1106" y="729" width="201" height="293" frameX="-3" frameY="-145" frameWidth="252" frameHeight="438"/>
+	<SubTexture name="shadow chaos control0021" x="1106" y="729" width="201" height="293" frameX="-3" frameY="-145" frameWidth="252" frameHeight="438"/>
+	<SubTexture name="shadow chaos control0022" x="1106" y="729" width="201" height="293" frameX="-3" frameY="-145" frameWidth="252" frameHeight="438"/>
+	<SubTexture name="shadow chaos control0023" x="1106" y="1023" width="201" height="293" frameX="-3" frameY="-145" frameWidth="252" frameHeight="438"/>
+	<SubTexture name="shadow chaos control0024" x="1106" y="1023" width="201" height="293" frameX="-3" frameY="-145" frameWidth="252" frameHeight="438"/>
+	<SubTexture name="shadow chaos control0025" x="899" y="729" width="201" height="293" frameX="-3" frameY="-145" frameWidth="252" frameHeight="438"/>
+	<SubTexture name="shadow chaos control0026" x="899" y="729" width="201" height="293" frameX="-3" frameY="-145" frameWidth="252" frameHeight="438"/>
+	<SubTexture name="shadow chaos control0027" x="899" y="729" width="201" height="293" frameX="-3" frameY="-145" frameWidth="252" frameHeight="438"/>
+	<SubTexture name="shadow chaos control0028" x="899" y="729" width="201" height="293" frameX="-3" frameY="-145" frameWidth="252" frameHeight="438"/>
+	<SubTexture name="shadow chaos control0029" x="899" y="729" width="201" height="293" frameX="-3" frameY="-145" frameWidth="252" frameHeight="438"/>
+	<SubTexture name="shadow chaos control0030" x="899" y="729" width="201" height="293" frameX="-3" frameY="-145" frameWidth="252" frameHeight="438"/>
+	<SubTexture name="shadow chaos control0031" x="899" y="729" width="201" height="293" frameX="-3" frameY="-145" frameWidth="252" frameHeight="438"/>
+	<SubTexture name="shadow chaos control0032" x="899" y="729" width="201" height="293" frameX="-3" frameY="-145" frameWidth="252" frameHeight="438"/>
+	<SubTexture name="shadow chaos control0033" x="899" y="729" width="201" height="293" frameX="-3" frameY="-145" frameWidth="252" frameHeight="438"/>
+	<SubTexture name="shadow chaos control0034" x="899" y="729" width="201" height="293" frameX="-3" frameY="-145" frameWidth="252" frameHeight="438"/>
+	<SubTexture name="shadow chaos control0035" x="899" y="729" width="201" height="293" frameX="-3" frameY="-145" frameWidth="252" frameHeight="438"/>
+	<SubTexture name="shadow chaos control0036" x="899" y="729" width="201" height="293" frameX="-3" frameY="-145" frameWidth="252" frameHeight="438"/>
+	<SubTexture name="shadow chaos control0037" x="899" y="729" width="201" height="293" frameX="-3" frameY="-145" frameWidth="252" frameHeight="438"/>
+	<SubTexture name="shadow chaos control0038" x="899" y="729" width="201" height="293" frameX="-3" frameY="-145" frameWidth="252" frameHeight="438"/>
+	<SubTexture name="shadow chaos control0039" x="899" y="729" width="201" height="293" frameX="-3" frameY="-145" frameWidth="252" frameHeight="438"/>
+	<SubTexture name="shadow chaos control0040" x="899" y="729" width="201" height="293" frameX="-3" frameY="-145" frameWidth="252" frameHeight="438"/>
+	<SubTexture name="shadow chaos control0041" x="899" y="729" width="201" height="293" frameX="-3" frameY="-145" frameWidth="252" frameHeight="438"/>
+	<SubTexture name="shadow chaos control0042" x="899" y="729" width="201" height="293" frameX="-3" frameY="-145" frameWidth="252" frameHeight="438"/>
+	<SubTexture name="shadow chaos control0043" x="899" y="729" width="201" height="293" frameX="-3" frameY="-145" frameWidth="252" frameHeight="438"/>
+	<SubTexture name="shadow chaos control0044" x="899" y="729" width="201" height="293" frameX="-3" frameY="-145" frameWidth="252" frameHeight="438"/>
+	<SubTexture name="shadow chaos control0045" x="899" y="729" width="201" height="293" frameX="-3" frameY="-145" frameWidth="252" frameHeight="438"/>
+	<SubTexture name="shadow chaos control0046" x="899" y="729" width="201" height="293" frameX="-3" frameY="-145" frameWidth="252" frameHeight="438"/>
+	<SubTexture name="shadow chaos control0047" x="899" y="729" width="201" height="293" frameX="-3" frameY="-145" frameWidth="252" frameHeight="438"/>
+	<SubTexture name="shadow chaos control0048" x="899" y="729" width="201" height="293" frameX="-3" frameY="-145" frameWidth="252" frameHeight="438"/>
+	<SubTexture name="shadow chaos control0049" x="899" y="729" width="201" height="293" frameX="-3" frameY="-145" frameWidth="252" frameHeight="438"/>
+	<SubTexture name="shadow chaos control0050" x="899" y="729" width="201" height="293" frameX="-3" frameY="-145" frameWidth="252" frameHeight="438"/>
+	<SubTexture name="shadow down0000" x="1817" y="1067" width="244" height="224" frameX="-0" frameY="-3" frameWidth="245" frameHeight="227"/>
+	<SubTexture name="shadow down0001" x="1817" y="1067" width="244" height="224" frameX="-0" frameY="-3" frameWidth="245" frameHeight="227"/>
+	<SubTexture name="shadow down0002" x="1817" y="561" width="245" height="227" frameX="-0" frameY="-0" frameWidth="245" frameHeight="227"/>
+	<SubTexture name="shadow down0003" x="1817" y="561" width="245" height="227" frameX="-0" frameY="-0" frameWidth="245" frameHeight="227"/>
+	<SubTexture name="shadow down0004" x="1817" y="561" width="245" height="227" frameX="-0" frameY="-0" frameWidth="245" frameHeight="227"/>
+	<SubTexture name="shadow down0005" x="1817" y="561" width="245" height="227" frameX="-0" frameY="-0" frameWidth="245" frameHeight="227"/>
+	<SubTexture name="shadow down0006" x="1817" y="561" width="245" height="227" frameX="-0" frameY="-0" frameWidth="245" frameHeight="227"/>
+	<SubTexture name="shadow down0007" x="1817" y="561" width="245" height="227" frameX="-0" frameY="-0" frameWidth="245" frameHeight="227"/>
+	<SubTexture name="shadow down0008" x="1817" y="561" width="245" height="227" frameX="-0" frameY="-0" frameWidth="245" frameHeight="227"/>
+	<SubTexture name="shadow down0009" x="1817" y="561" width="245" height="227" frameX="-0" frameY="-0" frameWidth="245" frameHeight="227"/>
+	<SubTexture name="shadow down0010" x="1817" y="561" width="245" height="227" frameX="-0" frameY="-0" frameWidth="245" frameHeight="227"/>
+	<SubTexture name="shadow down0011" x="1817" y="561" width="245" height="227" frameX="-0" frameY="-0" frameWidth="245" frameHeight="227"/>
+	<SubTexture name="shadow down0012" x="1817" y="561" width="245" height="227" frameX="-0" frameY="-0" frameWidth="245" frameHeight="227"/>
+	<SubTexture name="shadow down0013" x="1817" y="561" width="245" height="227" frameX="-0" frameY="-0" frameWidth="245" frameHeight="227"/>
+	<SubTexture name="shadow down0014" x="1817" y="561" width="245" height="227" frameX="-0" frameY="-0" frameWidth="245" frameHeight="227"/>
+	<SubTexture name="shadow down0015" x="1817" y="561" width="245" height="227" frameX="-0" frameY="-0" frameWidth="245" frameHeight="227"/>
+	<SubTexture name="shadow hurt0000" x="1817" y="789" width="244" height="277" frameX="-3" frameY="-2" frameWidth="247" frameHeight="279"/>
+	<SubTexture name="shadow hurt0001" x="1817" y="789" width="244" height="277" frameX="-3" frameY="-2" frameWidth="247" frameHeight="279"/>
+	<SubTexture name="shadow hurt0002" x="1817" y="281" width="246" height="279" frameX="-0" frameY="-0" frameWidth="247" frameHeight="279"/>
+	<SubTexture name="shadow hurt0003" x="1817" y="281" width="246" height="279" frameX="-0" frameY="-0" frameWidth="247" frameHeight="279"/>
+	<SubTexture name="shadow hurt0004" x="1817" y="1" width="247" height="279" frameX="-0" frameY="-0" frameWidth="247" frameHeight="279"/>
+	<SubTexture name="shadow hurt0005" x="1817" y="1" width="247" height="279" frameX="-0" frameY="-0" frameWidth="247" frameHeight="279"/>
+	<SubTexture name="shadow hurt0006" x="1817" y="1" width="247" height="279" frameX="-0" frameY="-0" frameWidth="247" frameHeight="279"/>
+	<SubTexture name="shadow hurt0007" x="1817" y="1" width="247" height="279" frameX="-0" frameY="-0" frameWidth="247" frameHeight="279"/>
+	<SubTexture name="shadow hurt0008" x="1817" y="1" width="247" height="279" frameX="-0" frameY="-0" frameWidth="247" frameHeight="279"/>
+	<SubTexture name="shadow hurt0009" x="1817" y="1" width="247" height="279" frameX="-0" frameY="-0" frameWidth="247" frameHeight="279"/>
+	<SubTexture name="shadow hurt0010" x="1817" y="1" width="247" height="279" frameX="-0" frameY="-0" frameWidth="247" frameHeight="279"/>
+	<SubTexture name="shadow hurt0011" x="1817" y="1" width="247" height="279" frameX="-0" frameY="-0" frameWidth="247" frameHeight="279"/>
+	<SubTexture name="shadow hurt0012" x="1817" y="1" width="247" height="279" frameX="-0" frameY="-0" frameWidth="247" frameHeight="279"/>
+	<SubTexture name="shadow hurt0013" x="1817" y="1" width="247" height="279" frameX="-0" frameY="-0" frameWidth="247" frameHeight="279"/>
+	<SubTexture name="shadow hurt0014" x="1817" y="1" width="247" height="279" frameX="-0" frameY="-0" frameWidth="247" frameHeight="279"/>
+	<SubTexture name="shadow hurt0015" x="1817" y="1" width="247" height="279" frameX="-0" frameY="-0" frameWidth="247" frameHeight="279"/>
+	<SubTexture name="shadow idle0000" x="1310" y="285" width="187" height="282" frameX="-1" frameY="-1" frameWidth="189" frameHeight="283"/>
+	<SubTexture name="shadow idle0001" x="1310" y="285" width="187" height="282" frameX="-1" frameY="-1" frameWidth="189" frameHeight="283"/>
+	<SubTexture name="shadow idle0002" x="1308" y="852" width="183" height="278" frameX="-6" frameY="-5" frameWidth="189" frameHeight="283"/>
+	<SubTexture name="shadow idle0003" x="1308" y="852" width="183" height="278" frameX="-6" frameY="-5" frameWidth="189" frameHeight="283"/>
+	<SubTexture name="shadow idle0004" x="1121" y="302" width="184" height="279" frameX="-5" frameY="-4" frameWidth="189" frameHeight="283"/>
+	<SubTexture name="shadow idle0005" x="1121" y="302" width="184" height="279" frameX="-5" frameY="-4" frameWidth="189" frameHeight="283"/>
+	<SubTexture name="shadow idle0006" x="1310" y="1" width="188" height="283" frameX="-0" frameY="-0" frameWidth="189" frameHeight="283"/>
+	<SubTexture name="shadow idle0007" x="1310" y="1" width="188" height="283" frameX="-0" frameY="-0" frameWidth="189" frameHeight="283"/>
+	<SubTexture name="shadow idle0008" x="1310" y="568" width="186" height="283" frameX="-2" frameY="-0" frameWidth="189" frameHeight="283"/>
+	<SubTexture name="shadow idle0009" x="1310" y="568" width="186" height="283" frameX="-2" frameY="-0" frameWidth="189" frameHeight="283"/>
+	<SubTexture name="shadow idle0010" x="1310" y="568" width="186" height="283" frameX="-2" frameY="-0" frameWidth="189" frameHeight="283"/>
+	<SubTexture name="shadow idle0011" x="1310" y="568" width="186" height="283" frameX="-2" frameY="-0" frameWidth="189" frameHeight="283"/>
+	<SubTexture name="shadow idle0012" x="1310" y="568" width="186" height="283" frameX="-2" frameY="-0" frameWidth="189" frameHeight="283"/>
+	<SubTexture name="shadow idle0013" x="1310" y="568" width="186" height="283" frameX="-2" frameY="-0" frameWidth="189" frameHeight="283"/>
+	<SubTexture name="shadow idle0014" x="1310" y="568" width="186" height="283" frameX="-2" frameY="-0" frameWidth="189" frameHeight="283"/>
+	<SubTexture name="shadow idle0015" x="1310" y="568" width="186" height="283" frameX="-2" frameY="-0" frameWidth="189" frameHeight="283"/>
+	<SubTexture name="shadow left0000" x="791" y="1748" width="199" height="301" frameX="-0" frameY="-0" frameWidth="199" frameHeight="301"/>
+	<SubTexture name="shadow left0001" x="791" y="1748" width="199" height="301" frameX="-0" frameY="-0" frameWidth="199" frameHeight="301"/>
+	<SubTexture name="shadow left0002" x="991" y="1748" width="197" height="301" frameX="-2" frameY="-0" frameWidth="199" frameHeight="301"/>
+	<SubTexture name="shadow left0003" x="991" y="1748" width="197" height="301" frameX="-2" frameY="-0" frameWidth="199" frameHeight="301"/>
+	<SubTexture name="shadow left0004" x="991" y="1748" width="197" height="301" frameX="-2" frameY="-0" frameWidth="199" frameHeight="301"/>
+	<SubTexture name="shadow left0005" x="991" y="1748" width="197" height="301" frameX="-2" frameY="-0" frameWidth="199" frameHeight="301"/>
+	<SubTexture name="shadow left0006" x="991" y="1748" width="197" height="301" frameX="-2" frameY="-0" frameWidth="199" frameHeight="301"/>
+	<SubTexture name="shadow left0007" x="991" y="1748" width="197" height="301" frameX="-2" frameY="-0" frameWidth="199" frameHeight="301"/>
+	<SubTexture name="shadow left0008" x="991" y="1748" width="197" height="301" frameX="-2" frameY="-0" frameWidth="199" frameHeight="301"/>
+	<SubTexture name="shadow left0009" x="991" y="1748" width="197" height="301" frameX="-2" frameY="-0" frameWidth="199" frameHeight="301"/>
+	<SubTexture name="shadow left0010" x="991" y="1748" width="197" height="301" frameX="-2" frameY="-0" frameWidth="199" frameHeight="301"/>
+	<SubTexture name="shadow left0011" x="991" y="1748" width="197" height="301" frameX="-2" frameY="-0" frameWidth="199" frameHeight="301"/>
+	<SubTexture name="shadow left0012" x="991" y="1748" width="197" height="301" frameX="-2" frameY="-0" frameWidth="199" frameHeight="301"/>
+	<SubTexture name="shadow left0013" x="991" y="1748" width="197" height="301" frameX="-2" frameY="-0" frameWidth="199" frameHeight="301"/>
+	<SubTexture name="shadow left0014" x="991" y="1748" width="197" height="301" frameX="-2" frameY="-0" frameWidth="199" frameHeight="301"/>
+	<SubTexture name="shadow left0015" x="991" y="1748" width="197" height="301" frameX="-2" frameY="-0" frameWidth="199" frameHeight="301"/>
+	<SubTexture name="shadow ready0000" x="1308" y="1131" width="180" height="287" frameX="-95" frameY="-162" frameWidth="327" frameHeight="450"/>
+	<SubTexture name="shadow ready0001" x="1308" y="1131" width="180" height="287" frameX="-95" frameY="-162" frameWidth="327" frameHeight="450"/>
+	<SubTexture name="shadow ready0002" x="552" y="1748" width="238" height="303" frameX="-53" frameY="-147" frameWidth="327" frameHeight="450"/>
+	<SubTexture name="shadow ready0003" x="263" y="1748" width="288" height="303" frameX="-3" frameY="-147" frameWidth="327" frameHeight="450"/>
+	<SubTexture name="shadow ready0004" x="1" y="1748" width="261" height="315" frameX="-26" frameY="-135" frameWidth="327" frameHeight="450"/>
+	<SubTexture name="shadow ready0005" x="676" y="1257" width="221" height="372" frameX="-52" frameY="-78" frameWidth="327" frameHeight="450"/>
+	<SubTexture name="shadow ready0006" x="771" y="1" width="327" height="393" frameX="-0" frameY="-50" frameWidth="327" frameHeight="450"/>
+	<SubTexture name="shadow ready0007" x="319" y="427" width="327" height="419" frameX="-0" frameY="-24" frameWidth="327" frameHeight="450"/>
+	<SubTexture name="shadow ready0008" x="1" y="445" width="317" height="434" frameX="-5" frameY="-9" frameWidth="327" frameHeight="450"/>
+	<SubTexture name="shadow ready0009" x="1" y="1" width="317" height="443" frameX="-5" frameY="-0" frameWidth="327" frameHeight="450"/>
+	<SubTexture name="shadow ready0010" x="1499" y="269" width="317" height="265" frameX="-5" frameY="-178" frameWidth="327" frameHeight="450"/>
+	<SubTexture name="shadow ready0011" x="1499" y="269" width="317" height="265" frameX="-5" frameY="-178" frameWidth="327" frameHeight="450"/>
+	<SubTexture name="shadow ready0012" x="1499" y="269" width="317" height="265" frameX="-5" frameY="-178" frameWidth="327" frameHeight="450"/>
+	<SubTexture name="shadow ready0013" x="1499" y="269" width="317" height="265" frameX="-5" frameY="-178" frameWidth="327" frameHeight="450"/>
+	<SubTexture name="shadow ready0014" x="1499" y="269" width="317" height="265" frameX="-5" frameY="-178" frameWidth="327" frameHeight="450"/>
+	<SubTexture name="shadow ready0015" x="1499" y="269" width="317" height="265" frameX="-5" frameY="-178" frameWidth="327" frameHeight="450"/>
+	<SubTexture name="shadow ready0016" x="1499" y="269" width="317" height="265" frameX="-5" frameY="-178" frameWidth="327" frameHeight="450"/>
+	<SubTexture name="shadow ready0017" x="1499" y="269" width="317" height="265" frameX="-5" frameY="-178" frameWidth="327" frameHeight="450"/>
+	<SubTexture name="shadow ready0018" x="1499" y="269" width="317" height="265" frameX="-5" frameY="-178" frameWidth="327" frameHeight="450"/>
+	<SubTexture name="shadow right0000" x="1506" y="1067" width="268" height="266" frameX="-1" frameY="-0" frameWidth="269" frameHeight="266"/>
+	<SubTexture name="shadow right0001" x="1506" y="1067" width="268" height="266" frameX="-1" frameY="-0" frameWidth="269" frameHeight="266"/>
+	<SubTexture name="shadow right0002" x="1506" y="1334" width="266" height="266" frameX="-0" frameY="-0" frameWidth="269" frameHeight="266"/>
+	<SubTexture name="shadow right0003" x="1506" y="1334" width="266" height="266" frameX="-0" frameY="-0" frameWidth="269" frameHeight="266"/>
+	<SubTexture name="shadow right0004" x="1506" y="1334" width="266" height="266" frameX="-0" frameY="-0" frameWidth="269" frameHeight="266"/>
+	<SubTexture name="shadow right0005" x="1506" y="1334" width="266" height="266" frameX="-0" frameY="-0" frameWidth="269" frameHeight="266"/>
+	<SubTexture name="shadow right0006" x="1506" y="1334" width="266" height="266" frameX="-0" frameY="-0" frameWidth="269" frameHeight="266"/>
+	<SubTexture name="shadow right0007" x="1506" y="1334" width="266" height="266" frameX="-0" frameY="-0" frameWidth="269" frameHeight="266"/>
+	<SubTexture name="shadow right0008" x="1506" y="1334" width="266" height="266" frameX="-0" frameY="-0" frameWidth="269" frameHeight="266"/>
+	<SubTexture name="shadow right0009" x="1506" y="1334" width="266" height="266" frameX="-0" frameY="-0" frameWidth="269" frameHeight="266"/>
+	<SubTexture name="shadow right0010" x="1506" y="1334" width="266" height="266" frameX="-0" frameY="-0" frameWidth="269" frameHeight="266"/>
+	<SubTexture name="shadow right0011" x="1506" y="1334" width="266" height="266" frameX="-0" frameY="-0" frameWidth="269" frameHeight="266"/>
+	<SubTexture name="shadow right0012" x="1506" y="1334" width="266" height="266" frameX="-0" frameY="-0" frameWidth="269" frameHeight="266"/>
+	<SubTexture name="shadow right0013" x="1506" y="1334" width="266" height="266" frameX="-0" frameY="-0" frameWidth="269" frameHeight="266"/>
+	<SubTexture name="shadow right0014" x="1506" y="1334" width="266" height="266" frameX="-0" frameY="-0" frameWidth="269" frameHeight="266"/>
+	<SubTexture name="shadow right0015" x="1506" y="1334" width="266" height="266" frameX="-0" frameY="-0" frameWidth="269" frameHeight="266"/>
+	<SubTexture name="shadow shoot0000" x="899" y="1474" width="304" height="271" frameX="-0" frameY="-0" frameWidth="327" frameHeight="450"/>
+	<SubTexture name="shadow shoot0001" x="1204" y="1474" width="301" height="268" frameX="-2" frameY="-2" frameWidth="327" frameHeight="450"/>
+	<SubTexture name="shadow shoot0002" x="1204" y="1474" width="301" height="268" frameX="-2" frameY="-2" frameWidth="327" frameHeight="450"/>
+	<SubTexture name="shadow shoot0003" x="1506" y="1" width="300" height="267" frameX="-2" frameY="-3" frameWidth="327" frameHeight="450"/>
+	<SubTexture name="shadow shoot0004" x="1506" y="1" width="300" height="267" frameX="-2" frameY="-3" frameWidth="327" frameHeight="450"/>
+	<SubTexture name="shadow shoot0005" x="1506" y="1" width="300" height="267" frameX="-2" frameY="-3" frameWidth="327" frameHeight="450"/>
+	<SubTexture name="shadow shoot0006" x="1499" y="535" width="316" height="265" frameX="-3" frameY="-5" frameWidth="327" frameHeight="450"/>
+	<SubTexture name="shadow shoot0007" x="1499" y="535" width="316" height="265" frameX="-3" frameY="-5" frameWidth="327" frameHeight="450"/>
+	<SubTexture name="shadow shoot0008" x="1499" y="535" width="316" height="265" frameX="-3" frameY="-5" frameWidth="327" frameHeight="450"/>
+	<SubTexture name="shadow shoot0009" x="1499" y="801" width="316" height="265" frameX="-3" frameY="-5" frameWidth="327" frameHeight="450"/>
+	<SubTexture name="shadow shoot0010" x="1499" y="801" width="316" height="265" frameX="-3" frameY="-5" frameWidth="327" frameHeight="450"/>
+	<SubTexture name="shadow shoot0011" x="1499" y="801" width="316" height="265" frameX="-3" frameY="-5" frameWidth="327" frameHeight="450"/>
+	<SubTexture name="shadow shoot0012" x="1499" y="801" width="316" height="265" frameX="-3" frameY="-5" frameWidth="327" frameHeight="450"/>
+	<SubTexture name="shadow shoot0013" x="1499" y="801" width="316" height="265" frameX="-3" frameY="-5" frameWidth="327" frameHeight="450"/>
+	<SubTexture name="shadow shoot0014" x="1499" y="801" width="316" height="265" frameX="-3" frameY="-5" frameWidth="327" frameHeight="450"/>
+	<SubTexture name="shadow shoot0015" x="1499" y="801" width="316" height="265" frameX="-3" frameY="-5" frameWidth="327" frameHeight="450"/>
+	<SubTexture name="shadow shoot0016" x="1499" y="801" width="316" height="265" frameX="-3" frameY="-5" frameWidth="327" frameHeight="450"/>
+	<SubTexture name="shadow up0000" x="1099" y="1" width="210" height="300" frameX="-0" frameY="-0" frameWidth="210" frameHeight="300"/>
+	<SubTexture name="shadow up0001" x="1099" y="1" width="210" height="300" frameX="-0" frameY="-0" frameWidth="210" frameHeight="300"/>
+	<SubTexture name="shadow up0002" x="898" y="1176" width="207" height="297" frameX="-2" frameY="-3" frameWidth="210" frameHeight="300"/>
+	<SubTexture name="shadow up0003" x="898" y="1176" width="207" height="297" frameX="-2" frameY="-3" frameWidth="210" frameHeight="300"/>
+	<SubTexture name="shadow up0004" x="898" y="1176" width="207" height="297" frameX="-2" frameY="-3" frameWidth="210" frameHeight="300"/>
+	<SubTexture name="shadow up0005" x="898" y="1176" width="207" height="297" frameX="-2" frameY="-3" frameWidth="210" frameHeight="300"/>
+	<SubTexture name="shadow up0006" x="898" y="1176" width="207" height="297" frameX="-2" frameY="-3" frameWidth="210" frameHeight="300"/>
+	<SubTexture name="shadow up0007" x="898" y="1176" width="207" height="297" frameX="-2" frameY="-3" frameWidth="210" frameHeight="300"/>
+	<SubTexture name="shadow up0008" x="898" y="1176" width="207" height="297" frameX="-2" frameY="-3" frameWidth="210" frameHeight="300"/>
+	<SubTexture name="shadow up0009" x="898" y="1176" width="207" height="297" frameX="-2" frameY="-3" frameWidth="210" frameHeight="300"/>
+	<SubTexture name="shadow up0010" x="898" y="1176" width="207" height="297" frameX="-2" frameY="-3" frameWidth="210" frameHeight="300"/>
+	<SubTexture name="shadow up0011" x="898" y="1176" width="207" height="297" frameX="-2" frameY="-3" frameWidth="210" frameHeight="300"/>
+	<SubTexture name="shadow up0012" x="898" y="1176" width="207" height="297" frameX="-2" frameY="-3" frameWidth="210" frameHeight="300"/>
+	<SubTexture name="shadow up0013" x="898" y="1176" width="207" height="297" frameX="-2" frameY="-3" frameWidth="210" frameHeight="300"/>
+	<SubTexture name="shadow up0014" x="898" y="1176" width="207" height="297" frameX="-2" frameY="-3" frameWidth="210" frameHeight="300"/>
+	<SubTexture name="shadow up0015" x="898" y="1176" width="207" height="297" frameX="-2" frameY="-3" frameWidth="210" frameHeight="300"/>
+</TextureAtlas>

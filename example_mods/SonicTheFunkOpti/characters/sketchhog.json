@@ -1,0 +1,135 @@
+{
+	"animations": [
+		{
+			"offsets": [-21, -316],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "sketchhog idle"
+		},
+		{
+			"offsets": [-21, -316],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [12, 13, 14, 15, 16, 17, 18, 19, 20, 21],
+			"name": "sketchhog idle"
+		},
+		{
+			"offsets": [104, -332],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sketchhog left"
+		},
+		{
+			"offsets": [104, -332],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [3, 4, 5, 6, 7, 8, 9, 10, 11],
+			"name": "sketchhog left"
+		},
+		{
+			"offsets": [-30, -307],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sketchhog right"
+		},
+		{
+			"offsets": [-30, -307],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [3, 4, 5, 6, 7, 8, 9, 10, 11],
+			"name": "sketchhog right"
+		},
+		{
+			"offsets": [-3, -337],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sketchhog down"
+		},
+		{
+			"offsets": [-3, -337],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [3, 4, 5, 6, 7, 8, 9, 10, 11],
+			"name": "sketchhog down"
+		},
+		{
+			"offsets": [-12, -273],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sketchhog up"
+		},
+		{
+			"offsets": [-12, -273],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [3, 4, 5, 6, 7, 8, 9, 10, 11],
+			"name": "sketchhog up"
+		},
+		{
+			"offsets": [-80, -340],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "sketchhog hurt"
+		},
+		{
+			"offsets": [-54, -302],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "sketchhog hey"
+		},
+		{
+			"offsets": [-80, -307],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "sketchhog waiting 1"
+		},
+		{
+			"loop": false,
+			"offsets": [-66, -317],
+			"anim": "danceRight-dance",
+			"fps": 24,
+			"name": "sketchhog dance",
+			"indices": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+		},
+		{
+			"loop": false,
+			"offsets": [-66, -317],
+			"anim": "danceLeft-dance",
+			"fps": 24,
+			"name": "sketchhog dance",
+			"indices": [12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/sonic/sketchhog",
+	"position": [100, 115],
+	"healthicon": "sonic",
+	"flip_x": true,
+	"healthbar_colors": [30, 111, 235],
+	"camera_position": [260, 220],
+	"sing_duration": 4,
+	"scale": 2,
+	"_editor_isPlayer": true
+}

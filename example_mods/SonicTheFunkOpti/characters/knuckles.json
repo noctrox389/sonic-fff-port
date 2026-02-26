@@ -1,0 +1,95 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [19, -226],
+			"anim": "idle",
+			"fps": 24,
+			"name": "knuckles idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [190, -272],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "knuckles left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-45, -268],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "knuckles right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [65, -392],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "knuckles down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [38, -196],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "knuckles up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [70, -253],
+			"anim": "surprised",
+			"fps": 24,
+			"name": "knuckles surprised",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-30, -300],
+			"anim": "punch1",
+			"fps": 24,
+			"name": "knuckles punch1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [1, -298],
+			"anim": "punch2",
+			"fps": 24,
+			"name": "knuckles puncH2",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [121, -282],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "knuckles hurt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [70, -253],
+			"anim": "idle-surprised",
+			"fps": 24,
+			"name": "knuckles surprised",
+			"indices": [11]
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/sonic/knuckles",
+	"position": [95, 145],
+	"healthicon": "knuckles",
+	"flip_x": false,
+	"healthbar_colors": [246, 31, 122],
+	"camera_position": [-160, 180],
+	"sing_duration": 4,
+	"scale": 2,
+	"_editor_isPlayer": false
+}

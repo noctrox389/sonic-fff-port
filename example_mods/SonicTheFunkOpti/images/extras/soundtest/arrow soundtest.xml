@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="arrow soundtest.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="arrow soundtest0000" x="2" y="2" width="55" height="76" frameX="0" frameY="-14" frameWidth="56" frameHeight="90"/>
+	<SubTexture name="arrow soundtest0001" x="2" y="2" width="55" height="76" frameX="0" frameY="-14" frameWidth="56" frameHeight="90"/>
+	<SubTexture name="arrow soundtest0002" x="59" y="2" width="55" height="82" frameX="0" frameY="-8" frameWidth="56" frameHeight="90"/>
+	<SubTexture name="arrow soundtest0003" x="59" y="2" width="55" height="82" frameX="0" frameY="-8" frameWidth="56" frameHeight="90"/>
+	<SubTexture name="arrow soundtest0004" x="116" y="2" width="56" height="90"/>
+	<SubTexture name="arrow soundtest0005" x="116" y="2" width="56" height="90"/>
+</TextureAtlas>

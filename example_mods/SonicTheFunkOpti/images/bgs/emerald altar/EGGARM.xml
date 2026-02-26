@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="EGGARM.png" width="847" height="997">
+	<SubTexture name="armBACK closed0000" x="1" y="1" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armBACK closing0000" x="283" y="1" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armBACK closing0001" x="283" y="1" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armBACK closing0002" x="565" y="1" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armBACK closing0003" x="565" y="1" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armBACK closing0004" x="1" y="250" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armBACK closing0005" x="1" y="250" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armBACK closing0006" x="1" y="1" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armBACK closing0007" x="1" y="1" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armBACK closing0008" x="1" y="1" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armBACK closing0009" x="1" y="1" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armBACK closing0010" x="1" y="1" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armBACK closing0011" x="1" y="1" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armBACK closing0012" x="1" y="1" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armBACK closing0013" x="1" y="1" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armBACK closing0014" x="1" y="1" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armBACK closing0015" x="1" y="1" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armBACK open0000" x="1" y="499" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armBACK opening0000" x="1" y="1" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armBACK opening0001" x="1" y="1" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armBACK opening0002" x="1" y="250" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armBACK opening0003" x="1" y="250" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armBACK opening0004" x="565" y="1" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armBACK opening0005" x="565" y="1" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armBACK opening0006" x="283" y="1" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armBACK opening0007" x="283" y="1" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armBACK opening0008" x="1" y="499" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armBACK opening0009" x="1" y="499" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armBACK opening0010" x="1" y="499" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armBACK opening0011" x="1" y="499" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armBACK opening0012" x="1" y="499" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armBACK opening0013" x="1" y="499" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armBACK opening0014" x="1" y="499" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armBACK opening0015" x="1" y="499" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armFRONT closed0000" x="1" y="748" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armFRONT closing0000" x="283" y="250" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armFRONT closing0001" x="283" y="250" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armFRONT closing0002" x="565" y="250" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armFRONT closing0003" x="565" y="250" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armFRONT closing0004" x="283" y="499" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armFRONT closing0005" x="283" y="499" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armFRONT closing0006" x="1" y="748" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armFRONT closing0007" x="1" y="748" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armFRONT closing0008" x="1" y="748" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armFRONT closing0009" x="1" y="748" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armFRONT closing0010" x="1" y="748" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armFRONT closing0011" x="1" y="748" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armFRONT closing0012" x="1" y="748" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armFRONT closing0013" x="1" y="748" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armFRONT closing0014" x="1" y="748" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armFRONT closing0015" x="1" y="748" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armFRONT open0000" x="283" y="748" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armFRONT opening0000" x="1" y="748" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armFRONT opening0001" x="1" y="748" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armFRONT opening0002" x="283" y="499" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armFRONT opening0003" x="283" y="499" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armFRONT opening0004" x="565" y="250" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armFRONT opening0005" x="565" y="250" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armFRONT opening0006" x="283" y="250" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armFRONT opening0007" x="283" y="250" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armFRONT opening0008" x="283" y="748" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armFRONT opening0009" x="283" y="748" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armFRONT opening0010" x="283" y="748" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armFRONT opening0011" x="283" y="748" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armFRONT opening0012" x="283" y="748" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armFRONT opening0013" x="283" y="748" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armFRONT opening0014" x="283" y="748" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+	<SubTexture name="armFRONT opening0015" x="283" y="748" width="281" height="248" frameX="-0" frameY="-0" frameWidth="282" frameHeight="249"/>
+</TextureAtlas>

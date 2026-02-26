@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="bf spin.png" width="1024" height="1024">
+	<SubTexture name="spin instance 10000" x="1" y="353" width="298" height="349" frameX="-28" frameY="-8" frameWidth="364" frameHeight="364"/>
+	<SubTexture name="spin instance 10001" x="1" y="1" width="346" height="351" frameX="-7" frameY="-4" frameWidth="364" frameHeight="364"/>
+	<SubTexture name="spin instance 10002" x="701" y="657" width="318" height="336" frameX="-0" frameY="-21" frameWidth="364" frameHeight="364"/>
+	<SubTexture name="spin instance 10003" x="1" y="1" width="346" height="351" frameX="-7" frameY="-4" frameWidth="364" frameHeight="364"/>
+	<SubTexture name="spin instance 10004" x="1" y="703" width="349" height="298" frameX="-8" frameY="-37" frameWidth="364" frameHeight="364"/>
+	<SubTexture name="spin instance 10005" x="1" y="1" width="346" height="351" frameX="-7" frameY="-4" frameWidth="364" frameHeight="364"/>
+	<SubTexture name="spin instance 10006" x="348" y="1" width="337" height="317" frameX="-21" frameY="-46" frameWidth="364" frameHeight="364"/>
+	<SubTexture name="spin instance 10007" x="1" y="1" width="346" height="351" frameX="-7" frameY="-4" frameWidth="364" frameHeight="364"/>
+	<SubTexture name="spin instance 10008" x="300" y="353" width="298" height="349" frameX="-37" frameY="-6" frameWidth="364" frameHeight="364"/>
+	<SubTexture name="spin instance 10009" x="1" y="1" width="346" height="351" frameX="-7" frameY="-4" frameWidth="364" frameHeight="364"/>
+	<SubTexture name="spin instance 10010" x="599" y="319" width="318" height="337" frameX="-46" frameY="-5" frameWidth="364" frameHeight="364"/>
+	<SubTexture name="spin instance 10011" x="1" y="1" width="346" height="351" frameX="-7" frameY="-4" frameWidth="364" frameHeight="364"/>
+	<SubTexture name="spin instance 10012" x="351" y="703" width="349" height="297" frameX="-6" frameY="-28" frameWidth="364" frameHeight="364"/>
+	<SubTexture name="spin instance 10013" x="1" y="1" width="346" height="351" frameX="-7" frameY="-4" frameWidth="364" frameHeight="364"/>
+	<SubTexture name="spin instance 10014" x="686" y="1" width="336" height="317" frameX="-6" frameY="-0" frameWidth="364" frameHeight="364"/>
+	<SubTexture name="spin instance 10015" x="1" y="1" width="346" height="351" frameX="-7" frameY="-4" frameWidth="364" frameHeight="364"/>
+</TextureAtlas>

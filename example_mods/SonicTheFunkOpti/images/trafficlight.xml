@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="trafficlight.png" width="825" height="626">
+	<SubTexture name="traffic light 10000" x="0.5" y="0.5" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light 10001" x="0.5" y="0.5" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light 10002" x="0.5" y="0.5" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light 10003" x="206.5" y="0.5" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light 10004" x="206.5" y="0.5" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light 10005" x="206.5" y="0.5" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light 10006" x="206.5" y="0.5" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light 10007" x="206.5" y="0.5" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light 10008" x="206.5" y="0.5" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light 10009" x="206.5" y="0.5" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light 10010" x="206.5" y="0.5" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light 10011" x="206.5" y="0.5" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light 10012" x="206.5" y="0.5" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light 10013" x="206.5" y="0.5" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light 10014" x="206.5" y="0.5" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light 10015" x="206.5" y="0.5" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light 10016" x="206.5" y="0.5" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light 20000" x="0.5" y="209" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light 20001" x="0.5" y="209" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light 20002" x="0.5" y="209" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light 20003" x="206.5" y="209" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light 20004" x="206.5" y="209" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light 20005" x="206.5" y="209" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light 20006" x="206.5" y="209" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light 20007" x="206.5" y="209" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light 20008" x="206.5" y="209" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light 20009" x="206.5" y="209" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light 20010" x="206.5" y="209" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light 20011" x="206.5" y="209" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light 20012" x="206.5" y="209" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light 20013" x="206.5" y="209" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light 20014" x="206.5" y="209" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light 20015" x="206.5" y="209" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light 20016" x="206.5" y="209" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light 30000" x="412.5" y="0.5" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light 30001" x="412.5" y="0.5" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light 30002" x="412.5" y="0.5" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light 30003" x="412.5" y="0.5" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light 30004" x="412.5" y="209" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light 30005" x="412.5" y="209" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light 30006" x="412.5" y="209" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light 30007" x="412.5" y="209" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light 30008" x="412.5" y="209" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light 30009" x="412.5" y="209" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light 30010" x="412.5" y="209" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light 30011" x="412.5" y="209" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light 30012" x="412.5" y="209" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light 30013" x="412.5" y="209" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light 30014" x="412.5" y="209" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light 30015" x="412.5" y="209" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light 30016" x="412.5" y="209" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light hit it0000" x="0.5" y="417.5" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light hit it0001" x="206.5" y="417.5" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light hit it0002" x="412.5" y="417.5" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light hit it0003" x="618.5" y="0.5" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light hit it0004" x="618.5" y="209" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light hit it0005" x="618.5" y="209" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light hit it0006" x="618.5" y="209" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light hit it0007" x="618.5" y="209" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light hit it0008" x="618.5" y="209" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light hit it0009" x="618.5" y="209" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light hit it0010" x="618.5" y="209" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light hit it0011" x="618.5" y="209" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light hit it0012" x="618.5" y="209" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light hit it0013" x="618.5" y="209" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light hit it0014" x="618.5" y="209" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light hit it0015" x="618.5" y="209" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light hit it0016" x="618.5" y="209" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+	<SubTexture name="traffic light off0000" x="618.5" y="417.5" width="205.5" height="208" frameX="-0" frameY="-0" frameWidth="205.5" frameHeight="208.5"/>
+</TextureAtlas>

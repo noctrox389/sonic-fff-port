@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="L animation.png" width="2048" height="2048">
+	<SubTexture name="sonic L animation0000" x="0.5" y="0.5" width="211.5" height="299.5" frameX="-66" frameY="-0" frameWidth="286.5" frameHeight="299.5"/>
+	<SubTexture name="sonic L animation0001" x="212.5" y="0.5" width="213.5" height="298.5" frameX="-62" frameY="-0.5" frameWidth="286.5" frameHeight="299.5"/>
+	<SubTexture name="sonic L animation0002" x="212.5" y="0.5" width="213.5" height="298.5" frameX="-62" frameY="-0.5" frameWidth="286.5" frameHeight="299.5"/>
+	<SubTexture name="sonic L animation0003" x="0.5" y="300.5" width="217" height="298.5" frameX="-59.5" frameY="-0" frameWidth="286.5" frameHeight="299.5"/>
+	<SubTexture name="sonic L animation0004" x="0.5" y="300.5" width="217" height="298.5" frameX="-59.5" frameY="-0" frameWidth="286.5" frameHeight="299.5"/>
+	<SubTexture name="sonic L animation0005" x="218" y="299.5" width="244.5" height="287" frameX="-23" frameY="-11" frameWidth="286.5" frameHeight="299.5"/>
+	<SubTexture name="sonic L animation0006" x="218" y="299.5" width="244.5" height="287" frameX="-23" frameY="-11" frameWidth="286.5" frameHeight="299.5"/>
+	<SubTexture name="sonic L animation0007" x="218" y="299.5" width="244.5" height="287" frameX="-23" frameY="-11" frameWidth="286.5" frameHeight="299.5"/>
+	<SubTexture name="sonic L animation0008" x="0.5" y="599.5" width="239.5" height="292.5" frameX="-19" frameY="-6" frameWidth="286.5" frameHeight="299.5"/>
+	<SubTexture name="sonic L animation0009" x="0.5" y="599.5" width="239.5" height="292.5" frameX="-19" frameY="-6" frameWidth="286.5" frameHeight="299.5"/>
+	<SubTexture name="sonic L animation0010" x="0.5" y="599.5" width="239.5" height="292.5" frameX="-19" frameY="-6" frameWidth="286.5" frameHeight="299.5"/>
+	<SubTexture name="sonic L animation0011" x="426.5" y="0.5" width="237.5" height="266.5" frameX="-21" frameY="-9.5" frameWidth="286.5" frameHeight="299.5"/>
+	<SubTexture name="sonic L animation0012" x="426.5" y="0.5" width="237.5" height="266.5" frameX="-21" frameY="-9.5" frameWidth="286.5" frameHeight="299.5"/>
+	<SubTexture name="sonic L animation0013" x="426.5" y="0.5" width="237.5" height="266.5" frameX="-21" frameY="-9.5" frameWidth="286.5" frameHeight="299.5"/>
+	<SubTexture name="sonic L animation0014" x="0.5" y="892.5" width="285" height="252" frameX="-0" frameY="-39.5" frameWidth="286.5" frameHeight="299.5"/>
+	<SubTexture name="sonic L animation0015" x="240.5" y="587" width="285" height="252" frameX="-0" frameY="-39.5" frameWidth="286.5" frameHeight="299.5"/>
+	<SubTexture name="sonic L animation0016" x="463" y="267.5" width="285" height="252" frameX="-0" frameY="-39.5" frameWidth="286.5" frameHeight="299.5"/>
+	<SubTexture name="sonic L animation0017" x="664.5" y="0.5" width="277" height="251.5" frameX="-7" frameY="-39" frameWidth="286.5" frameHeight="299.5"/>
+	<SubTexture name="sonic L animation0018" x="0.5" y="1145" width="277" height="251.5" frameX="-7" frameY="-39" frameWidth="286.5" frameHeight="299.5"/>
+	<SubTexture name="sonic L animation0019" x="0.5" y="1397" width="277" height="251.5" frameX="-7" frameY="-39" frameWidth="286.5" frameHeight="299.5"/>
+	<SubTexture name="sonic L animation0020" x="0.5" y="1649" width="283" height="249" frameX="-3.5" frameY="-40.5" frameWidth="286.5" frameHeight="299.5"/>
+	<SubTexture name="sonic L animation0021" x="284" y="1649" width="283" height="249" frameX="-3.5" frameY="-40.5" frameWidth="286.5" frameHeight="299.5"/>
+	<SubTexture name="sonic L animation0022" x="567.5" y="1649" width="283" height="249" frameX="-3.5" frameY="-40.5" frameWidth="286.5" frameHeight="299.5"/>
+	<SubTexture name="sonic L animation0023" x="851" y="1649" width="283" height="249" frameX="-3.5" frameY="-40.5" frameWidth="286.5" frameHeight="299.5"/>
+	<SubTexture name="sonic L animation0024" x="1134.5" y="1649" width="283" height="249" frameX="-3.5" frameY="-40.5" frameWidth="286.5" frameHeight="299.5"/>
+	<SubTexture name="sonic L animation0025" x="278" y="1145" width="283" height="249" frameX="-3.5" frameY="-40.5" frameWidth="286.5" frameHeight="299.5"/>
+	<SubTexture name="sonic L animation0026" x="278" y="1394.5" width="283" height="249" frameX="-3.5" frameY="-40.5" frameWidth="286.5" frameHeight="299.5"/>
+	<SubTexture name="sonic L animation0027" x="286" y="839.5" width="283" height="249" frameX="-3.5" frameY="-40.5" frameWidth="286.5" frameHeight="299.5"/>
+	<SubTexture name="sonic L animation0028" x="561.5" y="520" width="283" height="249" frameX="-3.5" frameY="-40.5" frameWidth="286.5" frameHeight="299.5"/>
+	<SubTexture name="sonic L animation0029" x="748.5" y="252.5" width="283" height="249" frameX="-3.5" frameY="-40.5" frameWidth="286.5" frameHeight="299.5"/>
+	<SubTexture name="sonic L animation0030" x="942" y="0.5" width="283" height="249" frameX="-3.5" frameY="-40.5" frameWidth="286.5" frameHeight="299.5"/>
+	<SubTexture name="sonic L animation0031" x="561.5" y="1089" width="283" height="249" frameX="-3.5" frameY="-40.5" frameWidth="286.5" frameHeight="299.5"/>
+	<SubTexture name="sonic L animation0032" x="561.5" y="1338.5" width="283" height="249" frameX="-3.5" frameY="-40.5" frameWidth="286.5" frameHeight="299.5"/>
+	<SubTexture name="sonic L animation0033" x="569.5" y="769.5" width="283" height="249" frameX="-3.5" frameY="-40.5" frameWidth="286.5" frameHeight="299.5"/>
+	<SubTexture name="sonic L animation0034" x="845" y="502" width="283" height="249" frameX="-3.5" frameY="-40.5" frameWidth="286.5" frameHeight="299.5"/>
+	<SubTexture name="sonic L animation0035" x="1032" y="250" width="283" height="249" frameX="-3.5" frameY="-40.5" frameWidth="286.5" frameHeight="299.5"/>
+	<SubTexture name="sonic L animation0036" x="1225.5" y="0.5" width="283" height="249" frameX="-3.5" frameY="-40.5" frameWidth="286.5" frameHeight="299.5"/>
+	<SubTexture name="sonic L animation0037" x="1509" y="0.5" width="283" height="249" frameX="-3.5" frameY="-40.5" frameWidth="286.5" frameHeight="299.5"/>
+	<SubTexture name="sonic L animation0038" x="1418" y="250" width="283" height="249" frameX="-3.5" frameY="-40.5" frameWidth="286.5" frameHeight="299.5"/>
+	<SubTexture name="sonic L animation0039" x="1701.5" y="250" width="283" height="249" frameX="-3.5" frameY="-40.5" frameWidth="286.5" frameHeight="299.5"/>
+	<SubTexture name="sonic L animation0040" x="1418" y="499.5" width="283" height="249" frameX="-3.5" frameY="-40.5" frameWidth="286.5" frameHeight="299.5"/>
+	<SubTexture name="sonic L animation0041" x="1128.5" y="499.5" width="283" height="249" frameX="-3.5" frameY="-40.5" frameWidth="286.5" frameHeight="299.5"/>
+</TextureAtlas>

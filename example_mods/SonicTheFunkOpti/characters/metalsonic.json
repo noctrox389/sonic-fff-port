@@ -1,0 +1,87 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [10, 110],
+			"anim": "idle",
+			"fps": 24,
+			"name": "metal idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [210, 120],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "metal left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-139, 93],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "metal right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-2, 185],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "metal up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [51, -18],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "metal down",
+			"indices": []
+		},
+		{
+			"offsets": [0, 170],
+			"loop": false,
+			"fps": 24,
+			"anim": "powerup",
+			"indices": [],
+			"name": "metal powerup"
+		},
+		{
+			"offsets": [-20, 117],
+			"loop": false,
+			"fps": 24,
+			"anim": "shoot",
+			"indices": [],
+			"name": "metal shoot"
+		},
+		{
+			"offsets": [-60, 110],
+			"loop": false,
+			"fps": 24,
+			"anim": "tired",
+			"indices": [],
+			"name": "metal tired"
+		},
+		{
+			"loop": false,
+			"offsets": [-40, -20],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "metal idlE-alt",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/metal/metalsonic",
+	"position": [110, 295],
+	"healthicon": "metalsonic",
+	"flip_x": false,
+	"healthbar_colors": [66, 64, 212],
+	"camera_position": [80, -180],
+	"sing_duration": 6.1,
+	"scale": 2,
+	"_editor_isPlayer": false
+}

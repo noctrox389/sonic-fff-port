@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="difficulties.png" width="426" height="131">
+	<SubTexture name="diff easy0000" x="240" y="68" width="185" height="61" frameX="-0" frameY="-0" frameWidth="185" frameHeight="61"/>
+	<SubTexture name="diff encore0000" x="1" y="68" width="238" height="62" frameX="-0" frameY="-0" frameWidth="238" frameHeight="62"/>
+	<SubTexture name="diff standard0000" x="1" y="1" width="325" height="66" frameX="-0" frameY="-0" frameWidth="325" frameHeight="66"/>
+</TextureAtlas>

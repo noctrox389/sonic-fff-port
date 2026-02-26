@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="rouge.png" width="1140" height="1258">
+	<SubTexture name="rouge flying0000" x="1" y="1" width="188" height="258" frameX="-9" frameY="-3" frameWidth="197" frameHeight="267"/>
+	<SubTexture name="rouge flying0001" x="1" y="1" width="188" height="258" frameX="-9" frameY="-3" frameWidth="197" frameHeight="267"/>
+	<SubTexture name="rouge flying0002" x="1" y="260" width="182" height="254" frameX="-10" frameY="-9" frameWidth="197" frameHeight="267"/>
+	<SubTexture name="rouge flying0003" x="1" y="260" width="182" height="254" frameX="-10" frameY="-9" frameWidth="197" frameHeight="267"/>
+	<SubTexture name="rouge flying0004" x="190" y="1" width="190" height="262" frameX="-4" frameY="-5" frameWidth="197" frameHeight="267"/>
+	<SubTexture name="rouge flying0005" x="190" y="1" width="190" height="262" frameX="-4" frameY="-5" frameWidth="197" frameHeight="267"/>
+	<SubTexture name="rouge flying0006" x="1" y="515" width="193" height="262" frameX="-0" frameY="-1" frameWidth="197" frameHeight="267"/>
+	<SubTexture name="rouge flying0007" x="1" y="515" width="193" height="262" frameX="-0" frameY="-1" frameWidth="197" frameHeight="267"/>
+	<SubTexture name="rouge flying0008" x="381" y="1" width="187" height="260" frameX="-8" frameY="-0" frameWidth="197" frameHeight="267"/>
+	<SubTexture name="rouge flying0009" x="381" y="1" width="187" height="260" frameX="-8" frameY="-0" frameWidth="197" frameHeight="267"/>
+	<SubTexture name="rouge flying0010" x="1" y="778" width="188" height="259" frameX="-9" frameY="-1" frameWidth="197" frameHeight="267"/>
+	<SubTexture name="rouge flying0011" x="1" y="778" width="188" height="259" frameX="-9" frameY="-1" frameWidth="197" frameHeight="267"/>
+	<SubTexture name="rouge idle0000" x="184" y="264" width="179" height="232" frameX="-4" frameY="-1" frameWidth="185" frameHeight="234"/>
+	<SubTexture name="rouge idle0001" x="184" y="264" width="179" height="232" frameX="-4" frameY="-1" frameWidth="185" frameHeight="234"/>
+	<SubTexture name="rouge idle0002" x="381" y="262" width="180" height="230" frameX="-2" frameY="-2" frameWidth="185" frameHeight="234"/>
+	<SubTexture name="rouge idle0003" x="381" y="262" width="180" height="230" frameX="-2" frameY="-2" frameWidth="185" frameHeight="234"/>
+	<SubTexture name="rouge idle0004" x="569" y="1" width="179" height="231" frameX="-4" frameY="-1" frameWidth="185" frameHeight="234"/>
+	<SubTexture name="rouge idle0005" x="569" y="1" width="179" height="231" frameX="-4" frameY="-1" frameWidth="185" frameHeight="234"/>
+	<SubTexture name="rouge idle0006" x="190" y="778" width="183" height="234" frameX="-2" frameY="-0" frameWidth="185" frameHeight="234"/>
+	<SubTexture name="rouge idle0007" x="190" y="778" width="183" height="234" frameX="-2" frameY="-0" frameWidth="185" frameHeight="234"/>
+	<SubTexture name="rouge idle0008" x="562" y="262" width="185" height="234" frameX="-0" frameY="-0" frameWidth="185" frameHeight="234"/>
+	<SubTexture name="rouge idle0009" x="562" y="262" width="185" height="234" frameX="-0" frameY="-0" frameWidth="185" frameHeight="234"/>
+	<SubTexture name="rouge idle0010" x="562" y="262" width="185" height="234" frameX="-0" frameY="-0" frameWidth="185" frameHeight="234"/>
+	<SubTexture name="rouge idle0011" x="562" y="262" width="185" height="234" frameX="-0" frameY="-0" frameWidth="185" frameHeight="234"/>
+	<SubTexture name="rouge idle0012" x="749" y="1" width="180" height="228" frameX="-4" frameY="-5" frameWidth="185" frameHeight="234"/>
+	<SubTexture name="rouge idle0013" x="749" y="1" width="180" height="228" frameX="-4" frameY="-5" frameWidth="185" frameHeight="234"/>
+	<SubTexture name="rouge idle0014" x="190" y="1013" width="183" height="228" frameX="-2" frameY="-5" frameWidth="185" frameHeight="234"/>
+	<SubTexture name="rouge idle0015" x="190" y="1013" width="183" height="228" frameX="-2" frameY="-5" frameWidth="185" frameHeight="234"/>
+	<SubTexture name="rouge idle0016" x="195" y="497" width="181" height="229" frameX="-4" frameY="-5" frameWidth="185" frameHeight="234"/>
+	<SubTexture name="rouge idle0017" x="195" y="497" width="181" height="229" frameX="-4" frameY="-5" frameWidth="185" frameHeight="234"/>
+	<SubTexture name="rouge idle0018" x="748" y="233" width="183" height="232" frameX="-2" frameY="-2" frameWidth="185" frameHeight="234"/>
+	<SubTexture name="rouge idle0019" x="748" y="233" width="183" height="232" frameX="-2" frameY="-2" frameWidth="185" frameHeight="234"/>
+	<SubTexture name="rouge idle0020" x="562" y="262" width="185" height="234" frameX="-0" frameY="-0" frameWidth="185" frameHeight="234"/>
+	<SubTexture name="rouge idle0021" x="562" y="262" width="185" height="234" frameX="-0" frameY="-0" frameWidth="185" frameHeight="234"/>
+	<SubTexture name="rouge idle0022" x="562" y="262" width="185" height="234" frameX="-0" frameY="-0" frameWidth="185" frameHeight="234"/>
+	<SubTexture name="rouge idle0023" x="562" y="262" width="185" height="234" frameX="-0" frameY="-0" frameWidth="185" frameHeight="234"/>
+	<SubTexture name="rouge land0000" x="1" y="1038" width="181" height="219" frameX="-9" frameY="-12" frameWidth="193" frameHeight="233"/>
+	<SubTexture name="rouge land0001" x="1" y="1038" width="181" height="219" frameX="-9" frameY="-12" frameWidth="193" frameHeight="233"/>
+	<SubTexture name="rouge land0002" x="374" y="727" width="189" height="217" frameX="-3" frameY="-13" frameWidth="193" frameHeight="233"/>
+	<SubTexture name="rouge land0003" x="374" y="727" width="189" height="217" frameX="-3" frameY="-13" frameWidth="193" frameHeight="233"/>
+	<SubTexture name="rouge land0004" x="748" y="466" width="193" height="221" frameX="-0" frameY="-9" frameWidth="193" frameHeight="233"/>
+	<SubTexture name="rouge land0005" x="748" y="466" width="193" height="221" frameX="-0" frameY="-9" frameWidth="193" frameHeight="233"/>
+	<SubTexture name="rouge land0006" x="374" y="945" width="181" height="232" frameX="-9" frameY="-1" frameWidth="193" frameHeight="233"/>
+	<SubTexture name="rouge land0007" x="374" y="945" width="181" height="232" frameX="-9" frameY="-1" frameWidth="193" frameHeight="233"/>
+	<SubTexture name="rouge land0008" x="377" y="493" width="184" height="233" frameX="-7" frameY="-0" frameWidth="193" frameHeight="233"/>
+	<SubTexture name="rouge land0009" x="377" y="493" width="184" height="233" frameX="-7" frameY="-0" frameWidth="193" frameHeight="233"/>
+	<SubTexture name="rouge leaving0000" x="932" y="1" width="189" height="273" frameX="-4" frameY="-6" frameWidth="197" frameHeight="279"/>
+	<SubTexture name="rouge leaving0001" x="932" y="1" width="189" height="273" frameX="-4" frameY="-6" frameWidth="197" frameHeight="279"/>
+	<SubTexture name="rouge leaving0002" x="564" y="688" width="197" height="273" frameX="-0" frameY="-2" frameWidth="197" frameHeight="279"/>
+	<SubTexture name="rouge leaving0003" x="564" y="688" width="197" height="273" frameX="-0" frameY="-2" frameWidth="197" frameHeight="279"/>
+	<SubTexture name="rouge leaving0004" x="942" y="275" width="187" height="272" frameX="-8" frameY="-0" frameWidth="197" frameHeight="279"/>
+	<SubTexture name="rouge leaving0005" x="942" y="275" width="187" height="272" frameX="-8" frameY="-0" frameWidth="197" frameHeight="279"/>
+	<SubTexture name="rouge leaving0006" x="762" y="688" width="188" height="271" frameX="-9" frameY="-0" frameWidth="197" frameHeight="279"/>
+	<SubTexture name="rouge leaving0007" x="762" y="688" width="188" height="271" frameX="-9" frameY="-0" frameWidth="197" frameHeight="279"/>
+	<SubTexture name="rouge leaving0008" x="556" y="962" width="188" height="271" frameX="-9" frameY="-2" frameWidth="197" frameHeight="279"/>
+	<SubTexture name="rouge leaving0009" x="556" y="962" width="188" height="271" frameX="-9" frameY="-2" frameWidth="197" frameHeight="279"/>
+	<SubTexture name="rouge leaving0010" x="762" y="960" width="183" height="268" frameX="-10" frameY="-9" frameWidth="197" frameHeight="279"/>
+	<SubTexture name="rouge leaving0011" x="762" y="960" width="183" height="268" frameX="-10" frameY="-9" frameWidth="197" frameHeight="279"/>
+	<SubTexture name="rouge liftoff0000" x="951" y="548" width="188" height="221" frameX="-0" frameY="-0" frameWidth="188" frameHeight="222"/>
+	<SubTexture name="rouge liftoff0001" x="951" y="548" width="188" height="221" frameX="-0" frameY="-0" frameWidth="188" frameHeight="222"/>
+	<SubTexture name="rouge liftoff0002" x="951" y="548" width="188" height="221" frameX="-0" frameY="-0" frameWidth="188" frameHeight="222"/>
+	<SubTexture name="rouge liftoff0003" x="946" y="960" width="185" height="222" frameX="-3" frameY="-0" frameWidth="188" frameHeight="222"/>
+	<SubTexture name="rouge liftoff0004" x="946" y="960" width="185" height="222" frameX="-3" frameY="-0" frameWidth="188" frameHeight="222"/>
+	<SubTexture name="rouge liftoff0005" x="946" y="960" width="185" height="222" frameX="-3" frameY="-0" frameWidth="188" frameHeight="222"/>
+	<SubTexture name="rouge liftoff0006" x="946" y="960" width="185" height="222" frameX="-3" frameY="-0" frameWidth="188" frameHeight="222"/>
+	<SubTexture name="rouge liftoff0007" x="946" y="960" width="185" height="222" frameX="-3" frameY="-0" frameWidth="188" frameHeight="222"/>
+	<SubTexture name="rouge liftoff0008" x="946" y="960" width="185" height="222" frameX="-3" frameY="-0" frameWidth="188" frameHeight="222"/>
+	<SubTexture name="rouge liftoff0009" x="946" y="960" width="185" height="222" frameX="-3" frameY="-0" frameWidth="188" frameHeight="222"/>
+	<SubTexture name="rouge liftoff0010" x="946" y="960" width="185" height="222" frameX="-3" frameY="-0" frameWidth="188" frameHeight="222"/>
+	<SubTexture name="rouge liftoff0011" x="946" y="960" width="185" height="222" frameX="-3" frameY="-0" frameWidth="188" frameHeight="222"/>
+	<SubTexture name="rouge liftoff0012" x="946" y="960" width="185" height="222" frameX="-3" frameY="-0" frameWidth="188" frameHeight="222"/>
+</TextureAtlas>

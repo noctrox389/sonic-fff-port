@@ -1,0 +1,7 @@
+{
+    "name": "Sonic The Funk",
+    "description": "Funk The Sonic",
+    "restart": false,
+    "runsGlobally": true,
+    "color": [0, 0, 0],
+}

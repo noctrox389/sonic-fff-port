@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="sketchfox ball.png" width="1769" height="1776">
+	<SubTexture name="sketchfox Jumpbackwards0000" x="857" y="508" width="267" height="304" frameX="-7" frameY="-73" frameWidth="345" frameHeight="377"/>
+	<SubTexture name="sketchfox Jumpbackwards0001" x="1125" y="517" width="267" height="304" frameX="-7" frameY="-73" frameWidth="345" frameHeight="377"/>
+	<SubTexture name="sketchfox Jumpbackwards0002" x="585" y="494" width="271" height="300" frameX="-7" frameY="-73" frameWidth="345" frameHeight="377"/>
+	<SubTexture name="sketchfox Jumpbackwards0003" x="290" y="480" width="294" height="291" frameX="-0" frameY="-77" frameWidth="345" frameHeight="377"/>
+	<SubTexture name="sketchfox Jumpbackwards0004" x="962" y="241" width="316" height="266" frameX="-0" frameY="-77" frameWidth="345" frameHeight="377"/>
+	<SubTexture name="sketchfox Jumpbackwards0005" x="1" y="1" width="340" height="231" frameX="-0" frameY="-77" frameWidth="345" frameHeight="377"/>
+	<SubTexture name="sketchfox Jumpbackwards0006" x="671" y="1" width="343" height="239" frameX="-2" frameY="-76" frameWidth="345" frameHeight="377"/>
+	<SubTexture name="sketchfox Jumpbackwards0007" x="331" y="233" width="322" height="246" frameX="-2" frameY="-69" frameWidth="345" frameHeight="377"/>
+	<SubTexture name="sketchfox Jumpbackwards0008" x="1" y="479" width="288" height="284" frameX="-2" frameY="-31" frameWidth="345" frameHeight="377"/>
+	<SubTexture name="sketchfox Jumpbackwards0009" x="1" y="764" width="252" height="306" frameX="-7" frameY="-12" frameWidth="345" frameHeight="377"/>
+	<SubTexture name="sketchfox Jumpbackwards0010" x="511" y="795" width="248" height="314" frameX="-7" frameY="-4" frameWidth="345" frameHeight="377"/>
+	<SubTexture name="sketchfox Jumpbackwards0011" x="1014" y="822" width="248" height="316" frameX="-7" frameY="-2" frameWidth="345" frameHeight="377"/>
+	<SubTexture name="sketchfox Jumpbackwards0012" x="254" y="772" width="256" height="306" frameX="-0" frameY="-2" frameWidth="345" frameHeight="377"/>
+	<SubTexture name="sketchfox Jumpbackwards0013" x="254" y="772" width="256" height="306" frameX="-0" frameY="-2" frameWidth="345" frameHeight="377"/>
+	<SubTexture name="sketchfox Jumpbackwards0014" x="254" y="772" width="256" height="306" frameX="-0" frameY="-2" frameWidth="345" frameHeight="377"/>
+	<SubTexture name="sketchfox Jumpbackwards0015" x="760" y="813" width="253" height="315" frameX="-2" frameY="-0" frameWidth="345" frameHeight="377"/>
+	<SubTexture name="sketchfox Jumpbackwards0016" x="760" y="813" width="253" height="315" frameX="-2" frameY="-0" frameWidth="345" frameHeight="377"/>
+	<SubTexture name="sketchfox Jumpbackwards0017" x="760" y="813" width="253" height="315" frameX="-2" frameY="-0" frameWidth="345" frameHeight="377"/>
+	<SubTexture name="sketchfox Jumpbackwards0018" x="1263" y="822" width="248" height="317" frameX="-7" frameY="-1" frameWidth="345" frameHeight="377"/>
+	<SubTexture name="sketchfox Jumpbackwards0019" x="1263" y="822" width="248" height="317" frameX="-7" frameY="-1" frameWidth="345" frameHeight="377"/>
+	<SubTexture name="sketchfox Jumpbackwards0020" x="1263" y="822" width="248" height="317" frameX="-7" frameY="-1" frameWidth="345" frameHeight="377"/>
+	<SubTexture name="sketchfox Jumpbackwards0021" x="254" y="772" width="256" height="306" frameX="-0" frameY="-2" frameWidth="345" frameHeight="377"/>
+	<SubTexture name="sketchfox Jumpbackwards0022" x="254" y="772" width="256" height="306" frameX="-0" frameY="-2" frameWidth="345" frameHeight="377"/>
+	<SubTexture name="sketchfox Jumpbackwards0023" x="254" y="772" width="256" height="306" frameX="-0" frameY="-2" frameWidth="345" frameHeight="377"/>
+	<SubTexture name="sketchfox Jumpbackwards0024" x="760" y="813" width="253" height="315" frameX="-2" frameY="-0" frameWidth="345" frameHeight="377"/>
+	<SubTexture name="sketchfox Jumpbackwards0025" x="760" y="813" width="253" height="315" frameX="-2" frameY="-0" frameWidth="345" frameHeight="377"/>
+	<SubTexture name="sketchfox Jumpbackwards0026" x="760" y="813" width="253" height="315" frameX="-2" frameY="-0" frameWidth="345" frameHeight="377"/>
+	<SubTexture name="sketchfox homing0000" x="342" y="1" width="328" height="231" frameX="-4" frameY="-4" frameWidth="332" frameHeight="246"/>
+	<SubTexture name="sketchfox homing0001" x="342" y="1" width="328" height="231" frameX="-4" frameY="-4" frameWidth="332" frameHeight="246"/>
+	<SubTexture name="sketchfox homing0002" x="342" y="1" width="328" height="231" frameX="-4" frameY="-4" frameWidth="332" frameHeight="246"/>
+	<SubTexture name="sketchfox homing0003" x="1015" y="1" width="331" height="239" frameX="-0" frameY="-3" frameWidth="332" frameHeight="246"/>
+	<SubTexture name="sketchfox homing0004" x="1015" y="1" width="331" height="239" frameX="-0" frameY="-3" frameWidth="332" frameHeight="246"/>
+	<SubTexture name="sketchfox homing0005" x="1015" y="1" width="331" height="239" frameX="-0" frameY="-3" frameWidth="332" frameHeight="246"/>
+	<SubTexture name="sketchfox homing0006" x="1" y="233" width="329" height="245" frameX="-2" frameY="-0" frameWidth="332" frameHeight="246"/>
+	<SubTexture name="sketchfox homing0007" x="1" y="233" width="329" height="245" frameX="-2" frameY="-0" frameWidth="332" frameHeight="246"/>
+	<SubTexture name="sketchfox homing0008" x="1" y="233" width="329" height="245" frameX="-2" frameY="-0" frameWidth="332" frameHeight="246"/>
+	<SubTexture name="sketchfox jump0000" x="250" y="1400" width="248" height="336" frameX="-86" frameY="-84" frameWidth="335" frameHeight="420"/>
+	<SubTexture name="sketchfox jump0001" x="499" y="1439" width="248" height="336" frameX="-86" frameY="-84" frameWidth="335" frameHeight="420"/>
+	<SubTexture name="sketchfox jump0002" x="1" y="1396" width="248" height="335" frameX="-86" frameY="-84" frameWidth="335" frameHeight="420"/>
+	<SubTexture name="sketchfox jump0003" x="1508" y="1142" width="256" height="330" frameX="-79" frameY="-88" frameWidth="335" frameHeight="420"/>
+	<SubTexture name="sketchfox jump0004" x="250" y="1079" width="256" height="320" frameX="-79" frameY="-88" frameWidth="335" frameHeight="420"/>
+	<SubTexture name="sketchfox jump0005" x="1279" y="241" width="298" height="275" frameX="-37" frameY="-88" frameWidth="335" frameHeight="420"/>
+	<SubTexture name="sketchfox jump0006" x="1347" y="1" width="334" height="239" frameX="-0" frameY="-87" frameWidth="335" frameHeight="420"/>
+	<SubTexture name="sketchfox jump0007" x="654" y="241" width="307" height="252" frameX="-27" frameY="-74" frameWidth="335" frameHeight="420"/>
+	<SubTexture name="sketchfox jump0008" x="1393" y="517" width="253" height="304" frameX="-81" frameY="-22" frameWidth="335" frameHeight="420"/>
+	<SubTexture name="sketchfox jump0009" x="1" y="1071" width="248" height="324" frameX="-86" frameY="-5" frameWidth="335" frameHeight="420"/>
+	<SubTexture name="sketchfox jump0010" x="507" y="1110" width="248" height="328" frameX="-86" frameY="-1" frameWidth="335" frameHeight="420"/>
+	<SubTexture name="sketchfox jump0011" x="1259" y="1140" width="248" height="329" frameX="-86" frameY="-0" frameWidth="335" frameHeight="420"/>
+	<SubTexture name="sketchfox jump0012" x="1512" y="822" width="256" height="319" frameX="-79" frameY="-0" frameWidth="335" frameHeight="420"/>
+	<SubTexture name="sketchfox jump0013" x="1512" y="822" width="256" height="319" frameX="-79" frameY="-0" frameWidth="335" frameHeight="420"/>
+	<SubTexture name="sketchfox jump0014" x="1512" y="822" width="256" height="319" frameX="-79" frameY="-0" frameWidth="335" frameHeight="420"/>
+	<SubTexture name="sketchfox jump0015" x="756" y="1129" width="253" height="325" frameX="-81" frameY="-1" frameWidth="335" frameHeight="420"/>
+	<SubTexture name="sketchfox jump0016" x="756" y="1129" width="253" height="325" frameX="-81" frameY="-1" frameWidth="335" frameHeight="420"/>
+	<SubTexture name="sketchfox jump0017" x="756" y="1129" width="253" height="325" frameX="-81" frameY="-1" frameWidth="335" frameHeight="420"/>
+	<SubTexture name="sketchfox jump0018" x="1010" y="1139" width="248" height="328" frameX="-86" frameY="-1" frameWidth="335" frameHeight="420"/>
+	<SubTexture name="sketchfox jump0019" x="1010" y="1139" width="248" height="328" frameX="-86" frameY="-1" frameWidth="335" frameHeight="420"/>
+	<SubTexture name="sketchfox jump0020" x="1010" y="1139" width="248" height="328" frameX="-86" frameY="-1" frameWidth="335" frameHeight="420"/>
+	<SubTexture name="sketchfox jump0021" x="1512" y="822" width="256" height="319" frameX="-79" frameY="-0" frameWidth="335" frameHeight="420"/>
+	<SubTexture name="sketchfox jump0022" x="1512" y="822" width="256" height="319" frameX="-79" frameY="-0" frameWidth="335" frameHeight="420"/>
+	<SubTexture name="sketchfox jump0023" x="1512" y="822" width="256" height="319" frameX="-79" frameY="-0" frameWidth="335" frameHeight="420"/>
+	<SubTexture name="sketchfox jump0024" x="756" y="1129" width="253" height="325" frameX="-81" frameY="-1" frameWidth="335" frameHeight="420"/>
+	<SubTexture name="sketchfox jump0025" x="756" y="1129" width="253" height="325" frameX="-81" frameY="-1" frameWidth="335" frameHeight="420"/>
+	<SubTexture name="sketchfox jump0026" x="756" y="1129" width="253" height="325" frameX="-81" frameY="-1" frameWidth="335" frameHeight="420"/>
+</TextureAtlas>

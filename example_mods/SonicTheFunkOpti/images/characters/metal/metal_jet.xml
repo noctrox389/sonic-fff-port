@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="metal_jet.png" width="306" height="251">
+	<SubTexture name="jet0000.png" x="185" y="142" width="114" height="108" frameX="-189" frameY="-0" frameWidth="305" frameHeight="108"/>
+	<SubTexture name="jet0001.png" x="1" y="142" width="181" height="81" frameX="-119" frameY="-25" frameWidth="305" frameHeight="108"/>
+	<SubTexture name="jet0002.png" x="1" y="84" width="304" height="55" frameX="-0" frameY="-30" frameWidth="305" frameHeight="108"/>
+	<SubTexture name="jet0003.png" x="1" y="1" width="267" height="80" frameX="-38" frameY="-19" frameWidth="305" frameHeight="108"/>
+</TextureAtlas>

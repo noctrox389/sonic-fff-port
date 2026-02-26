@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="signpost.png" width="403" height="504">
+	<SubTexture name="signpost future0000" x="0.5" y="254" width="136.5" height="249.5" frameX="-0" frameY="-0" frameWidth="136.5" frameHeight="249.5"/>
+	<SubTexture name="signpost past0000" x="137.5" y="253.5" width="136.5" height="249.5" frameX="-0" frameY="-0" frameWidth="136.5" frameHeight="249.5"/>
+	<SubTexture name="signpost spinning0000" x="0.5" y="0.5" width="88" height="253" frameX="-25.5" frameY="-0" frameWidth="136.5" frameHeight="253"/>
+	<SubTexture name="signpost spinning0001" x="89" y="0.5" width="88" height="252.5" frameX="-25.5" frameY="-0.5" frameWidth="136.5" frameHeight="253"/>
+	<SubTexture name="signpost spinning0002" x="266" y="0.5" width="136.5" height="249.5" frameX="-0" frameY="-3.5" frameWidth="136.5" frameHeight="253"/>
+	<SubTexture name="signpost spinning0003" x="177.5" y="0.5" width="88" height="252.5" frameX="-25.5" frameY="-0.5" frameWidth="136.5" frameHeight="253"/>
+</TextureAtlas>

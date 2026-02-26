@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="metal.png" width="612" height="474">
+	<SubTexture name="metal finger wag0000" x="381" y="1" width="230" height="197" frameX="-0" frameY="-39" frameWidth="230" frameHeight="236"/>
+	<SubTexture name="metal finger wag0001" x="381" y="1" width="230" height="197" frameX="-0" frameY="-39" frameWidth="230" frameHeight="236"/>
+	<SubTexture name="metal finger wag0002" x="381" y="1" width="230" height="197" frameX="-0" frameY="-39" frameWidth="230" frameHeight="236"/>
+	<SubTexture name="metal finger wag0003" x="381" y="199" width="225" height="198" frameX="-2" frameY="-38" frameWidth="230" frameHeight="236"/>
+	<SubTexture name="metal finger wag0004" x="381" y="199" width="225" height="198" frameX="-2" frameY="-38" frameWidth="230" frameHeight="236"/>
+	<SubTexture name="metal finger wag0005" x="381" y="199" width="225" height="198" frameX="-2" frameY="-38" frameWidth="230" frameHeight="236"/>
+	<SubTexture name="metal finger wag0006" x="1" y="1" width="124" height="236" frameX="-49" frameY="-0" frameWidth="230" frameHeight="236"/>
+	<SubTexture name="metal finger wag0007" x="1" y="1" width="124" height="236" frameX="-49" frameY="-0" frameWidth="230" frameHeight="236"/>
+	<SubTexture name="metal finger wag0008" x="1" y="1" width="124" height="236" frameX="-49" frameY="-0" frameWidth="230" frameHeight="236"/>
+	<SubTexture name="metal finger wag0009" x="126" y="1" width="125" height="235" frameX="-48" frameY="-1" frameWidth="230" frameHeight="236"/>
+	<SubTexture name="metal finger wag0010" x="126" y="1" width="125" height="235" frameX="-48" frameY="-1" frameWidth="230" frameHeight="236"/>
+	<SubTexture name="metal finger wag0011" x="1" y="238" width="128" height="235" frameX="-45" frameY="-1" frameWidth="230" frameHeight="236"/>
+	<SubTexture name="metal finger wag0012" x="1" y="238" width="128" height="235" frameX="-45" frameY="-1" frameWidth="230" frameHeight="236"/>
+	<SubTexture name="metal finger wag0013" x="252" y="1" width="128" height="235" frameX="-45" frameY="-1" frameWidth="230" frameHeight="236"/>
+	<SubTexture name="metal finger wag0014" x="252" y="1" width="128" height="235" frameX="-45" frameY="-1" frameWidth="230" frameHeight="236"/>
+	<SubTexture name="metal finger wag0015" x="1" y="238" width="128" height="235" frameX="-45" frameY="-1" frameWidth="230" frameHeight="236"/>
+	<SubTexture name="metal finger wag0016" x="1" y="238" width="128" height="235" frameX="-45" frameY="-1" frameWidth="230" frameHeight="236"/>
+	<SubTexture name="metal finger wag0017" x="130" y="237" width="123" height="235" frameX="-50" frameY="-1" frameWidth="230" frameHeight="236"/>
+	<SubTexture name="metal finger wag0018" x="130" y="237" width="123" height="235" frameX="-50" frameY="-1" frameWidth="230" frameHeight="236"/>
+	<SubTexture name="metal finger wag0019" x="254" y="237" width="123" height="235" frameX="-50" frameY="-1" frameWidth="230" frameHeight="236"/>
+	<SubTexture name="metal finger wag0020" x="254" y="237" width="123" height="235" frameX="-50" frameY="-1" frameWidth="230" frameHeight="236"/>
+	<SubTexture name="metal finger wag0021" x="130" y="237" width="123" height="235" frameX="-50" frameY="-1" frameWidth="230" frameHeight="236"/>
+	<SubTexture name="metal finger wag0022" x="130" y="237" width="123" height="235" frameX="-50" frameY="-1" frameWidth="230" frameHeight="236"/>
+</TextureAtlas>

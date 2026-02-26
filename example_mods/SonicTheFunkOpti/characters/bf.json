@@ -1,0 +1,95 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [10, 110],
+			"anim": "idle",
+			"fps": 24,
+			"name": "metal idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [10, 110],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "metal idle",
+			"indices": [12, 13, 14, 15]
+		},
+		{
+			"loop": false,
+			"offsets": [170, 120],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "metal left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [170, 120],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "metal left",
+			"indices": [12, 13, 14, 15, 16]
+		},
+		{
+			"loop": false,
+			"offsets": [-49, 93],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "metal right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [-49, 93],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "metal right",
+			"indices": [12, 13, 14, 15, 16]
+		},
+		{
+			"loop": false,
+			"offsets": [-2, 175],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "metal up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [-2, 175],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "metal up",
+			"indices": [12, 13, 14, 15, 16]
+		},
+		{
+			"loop": false,
+			"offsets": [51, 2],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "metal down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [51, 2],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "metal down",
+			"indices": [12, 13, 14, 15, 16]
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/metal/metalfnf",
+	"position": [100, 320],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [161, 161, 161],
+	"camera_position": [120, -240],
+	"sing_duration": 6.1,
+	"scale": 2,
+	"_editor_isPlayer": false
+}

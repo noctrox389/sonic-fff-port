@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfshoes.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf shoe10000" x="2" y="2" width="211" height="231"/>
+	<SubTexture name="bf shoe20000" x="215" y="2" width="233" height="164"/>
+</TextureAtlas>

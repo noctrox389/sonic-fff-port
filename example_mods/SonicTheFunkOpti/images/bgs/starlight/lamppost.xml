@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="lamppost.png" width="1040" height="750">
+	<SubTexture name="lamp post0000" x="0.5" y="0.5" width="94" height="374" frameX="-0" frameY="-0" frameWidth="94" frameHeight="374"/>
+	<SubTexture name="lamp post0001" x="0.5" y="375" width="94" height="374" frameX="-0" frameY="-0" frameWidth="94" frameHeight="374"/>
+	<SubTexture name="lamp post0002" x="95" y="0.5" width="94" height="374" frameX="-0" frameY="-0" frameWidth="94" frameHeight="374"/>
+	<SubTexture name="lamp post0003" x="95" y="375" width="94" height="374" frameX="-0" frameY="-0" frameWidth="94" frameHeight="374"/>
+	<SubTexture name="lamp post0004" x="189.5" y="0.5" width="94" height="374" frameX="-0" frameY="-0" frameWidth="94" frameHeight="374"/>
+	<SubTexture name="lamp post0005" x="189.5" y="375" width="94" height="374" frameX="-0" frameY="-0" frameWidth="94" frameHeight="374"/>
+	<SubTexture name="lamp post0006" x="284" y="0.5" width="94" height="374" frameX="-0" frameY="-0" frameWidth="94" frameHeight="374"/>
+	<SubTexture name="lamp post0007" x="284" y="375" width="94" height="374" frameX="-0" frameY="-0" frameWidth="94" frameHeight="374"/>
+	<SubTexture name="lamp post0008" x="378.5" y="0.5" width="94" height="374" frameX="-0" frameY="-0" frameWidth="94" frameHeight="374"/>
+	<SubTexture name="lamp post0009" x="378.5" y="375" width="94" height="374" frameX="-0" frameY="-0" frameWidth="94" frameHeight="374"/>
+	<SubTexture name="lamp post0010" x="473" y="0.5" width="94" height="374" frameX="-0" frameY="-0" frameWidth="94" frameHeight="374"/>
+	<SubTexture name="lamp post0011" x="473" y="375" width="94" height="374" frameX="-0" frameY="-0" frameWidth="94" frameHeight="374"/>
+	<SubTexture name="lamp post0012" x="473" y="0.5" width="94" height="374" frameX="-0" frameY="-0" frameWidth="94" frameHeight="374"/>
+	<SubTexture name="lamp post0013" x="567.5" y="0.5" width="94" height="374" frameX="-0" frameY="-0" frameWidth="94" frameHeight="374"/>
+	<SubTexture name="lamp post0014" x="567.5" y="375" width="94" height="374" frameX="-0" frameY="-0" frameWidth="94" frameHeight="374"/>
+	<SubTexture name="lamp post0015" x="662" y="0.5" width="94" height="374" frameX="-0" frameY="-0" frameWidth="94" frameHeight="374"/>
+	<SubTexture name="lamp post0016" x="662" y="375" width="94" height="374" frameX="-0" frameY="-0" frameWidth="94" frameHeight="374"/>
+	<SubTexture name="lamp post0017" x="756.5" y="0.5" width="94" height="374" frameX="-0" frameY="-0" frameWidth="94" frameHeight="374"/>
+	<SubTexture name="lamp post0018" x="756.5" y="375" width="94" height="374" frameX="-0" frameY="-0" frameWidth="94" frameHeight="374"/>
+	<SubTexture name="lamp post0019" x="851" y="0.5" width="94" height="374" frameX="-0" frameY="-0" frameWidth="94" frameHeight="374"/>
+	<SubTexture name="lamp post0020" x="945.5" y="0.5" width="94" height="374" frameX="-0" frameY="-0" frameWidth="94" frameHeight="374"/>
+	<SubTexture name="lamp post0021" x="851" y="375" width="94" height="374" frameX="-0" frameY="-0" frameWidth="94" frameHeight="374"/>
+	<SubTexture name="lamp post0022" x="945.5" y="375" width="94" height="374" frameX="-0" frameY="-0" frameWidth="94" frameHeight="374"/>
+	<SubTexture name="lamp post0023" x="0.5" y="0.5" width="94" height="374" frameX="-0" frameY="-0" frameWidth="94" frameHeight="374"/>
+</TextureAtlas>

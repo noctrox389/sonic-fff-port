@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="tutorialtxt.png" width="890" height="831">
+	<SubTexture name="INDICATORmouse0000" x="369" y="624" width="441" height="206" frameX="-0" frameY="-0" frameWidth="441" frameHeight="206"/>
+	<SubTexture name="TEXTjump0000" x="595" y="321" width="294" height="124" frameX="-7" frameY="-1" frameWidth="302" frameHeight="125"/>
+	<SubTexture name="TEXTjump0001" x="595" y="321" width="294" height="124" frameX="-7" frameY="-1" frameWidth="302" frameHeight="125"/>
+	<SubTexture name="TEXTjump0002" x="595" y="321" width="294" height="124" frameX="-7" frameY="-1" frameWidth="302" frameHeight="125"/>
+	<SubTexture name="TEXTjump0003" x="1" y="320" width="297" height="120" frameX="-0" frameY="-2" frameWidth="302" frameHeight="125"/>
+	<SubTexture name="TEXTjump0004" x="1" y="320" width="297" height="120" frameX="-0" frameY="-2" frameWidth="302" frameHeight="125"/>
+	<SubTexture name="TEXTjump0005" x="1" y="320" width="297" height="120" frameX="-0" frameY="-2" frameWidth="302" frameHeight="125"/>
+	<SubTexture name="TEXTjump0006" x="299" y="321" width="295" height="123" frameX="-7" frameY="-0" frameWidth="302" frameHeight="125"/>
+	<SubTexture name="TEXTjump0007" x="299" y="321" width="295" height="123" frameX="-7" frameY="-0" frameWidth="302" frameHeight="125"/>
+	<SubTexture name="TEXTjump0008" x="299" y="321" width="295" height="123" frameX="-7" frameY="-0" frameWidth="302" frameHeight="125"/>
+	<SubTexture name="TXThomingattack0000" x="1" y="445" width="371" height="177" frameX="-2" frameY="-0" frameWidth="373" frameHeight="179"/>
+	<SubTexture name="TXThomingattack0001" x="1" y="445" width="371" height="177" frameX="-2" frameY="-0" frameWidth="373" frameHeight="179"/>
+	<SubTexture name="TXThomingattack0002" x="1" y="445" width="371" height="177" frameX="-2" frameY="-0" frameWidth="373" frameHeight="179"/>
+	<SubTexture name="TXThomingattack0003" x="373" y="446" width="364" height="177" frameX="-0" frameY="-1" frameWidth="373" frameHeight="179"/>
+	<SubTexture name="TXThomingattack0004" x="373" y="446" width="364" height="177" frameX="-0" frameY="-1" frameWidth="373" frameHeight="179"/>
+	<SubTexture name="TXThomingattack0005" x="373" y="446" width="364" height="177" frameX="-0" frameY="-1" frameWidth="373" frameHeight="179"/>
+	<SubTexture name="TXThomingattack0006" x="1" y="623" width="367" height="179" frameX="-6" frameY="-0" frameWidth="373" frameHeight="179"/>
+	<SubTexture name="TXThomingattack0007" x="1" y="623" width="367" height="179" frameX="-6" frameY="-0" frameWidth="373" frameHeight="179"/>
+	<SubTexture name="TXThomingattack0008" x="1" y="623" width="367" height="179" frameX="-6" frameY="-0" frameWidth="373" frameHeight="179"/>
+	<SubTexture name="TXTmouse0000" x="1" y="79" width="393" height="78" frameX="-0" frameY="-0" frameWidth="395" frameHeight="79"/>
+	<SubTexture name="TXTmouse0001" x="1" y="79" width="393" height="78" frameX="-0" frameY="-0" frameWidth="395" frameHeight="79"/>
+	<SubTexture name="TXTmouse0002" x="1" y="79" width="393" height="78" frameX="-0" frameY="-0" frameWidth="395" frameHeight="79"/>
+	<SubTexture name="TXTmouse0003" x="395" y="80" width="392" height="78" frameX="-1" frameY="-0" frameWidth="395" frameHeight="79"/>
+	<SubTexture name="TXTmouse0004" x="395" y="80" width="392" height="78" frameX="-1" frameY="-0" frameWidth="395" frameHeight="79"/>
+	<SubTexture name="TXTmouse0005" x="395" y="80" width="392" height="78" frameX="-1" frameY="-0" frameWidth="395" frameHeight="79"/>
+	<SubTexture name="TXTmouse0006" x="1" y="159" width="394" height="78" frameX="-0" frameY="-0" frameWidth="395" frameHeight="79"/>
+	<SubTexture name="TXTmouse0007" x="1" y="159" width="394" height="78" frameX="-0" frameY="-0" frameWidth="395" frameHeight="79"/>
+	<SubTexture name="TXTmouse0008" x="1" y="159" width="394" height="78" frameX="-0" frameY="-0" frameWidth="395" frameHeight="79"/>
+	<SubTexture name="TXTspacE20000" x="396" y="159" width="416" height="79" frameX="-0" frameY="-0" frameWidth="417" frameHeight="82"/>
+	<SubTexture name="TXTspacE20001" x="396" y="159" width="416" height="79" frameX="-0" frameY="-0" frameWidth="417" frameHeight="82"/>
+	<SubTexture name="TXTspacE20002" x="396" y="159" width="416" height="79" frameX="-0" frameY="-0" frameWidth="417" frameHeight="82"/>
+	<SubTexture name="TXTspacE20003" x="418" y="239" width="415" height="81" frameX="-0" frameY="-1" frameWidth="417" frameHeight="82"/>
+	<SubTexture name="TXTspacE20004" x="418" y="239" width="415" height="81" frameX="-0" frameY="-1" frameWidth="417" frameHeight="82"/>
+	<SubTexture name="TXTspacE20005" x="418" y="239" width="415" height="81" frameX="-0" frameY="-1" frameWidth="417" frameHeight="82"/>
+	<SubTexture name="TXTspacE20006" x="1" y="239" width="416" height="80" frameX="-0" frameY="-1" frameWidth="417" frameHeight="82"/>
+	<SubTexture name="TXTspacE20007" x="1" y="239" width="416" height="80" frameX="-0" frameY="-1" frameWidth="417" frameHeight="82"/>
+	<SubTexture name="TXTspacE20008" x="1" y="239" width="416" height="80" frameX="-0" frameY="-1" frameWidth="417" frameHeight="82"/>
+	<SubTexture name="TXTspace0000" x="1" y="1" width="262" height="75" frameX="-0" frameY="-0" frameWidth="263" frameHeight="78"/>
+	<SubTexture name="TXTspace0001" x="1" y="1" width="262" height="75" frameX="-0" frameY="-0" frameWidth="263" frameHeight="78"/>
+	<SubTexture name="TXTspace0002" x="1" y="1" width="262" height="75" frameX="-0" frameY="-0" frameWidth="263" frameHeight="78"/>
+	<SubTexture name="TXTspace0003" x="527" y="1" width="263" height="78" frameX="-0" frameY="-0" frameWidth="263" frameHeight="78"/>
+	<SubTexture name="TXTspace0004" x="527" y="1" width="263" height="78" frameX="-0" frameY="-0" frameWidth="263" frameHeight="78"/>
+	<SubTexture name="TXTspace0005" x="527" y="1" width="263" height="78" frameX="-0" frameY="-0" frameWidth="263" frameHeight="78"/>
+	<SubTexture name="TXTspace0006" x="264" y="1" width="262" height="77" frameX="-0" frameY="-0" frameWidth="263" frameHeight="78"/>
+	<SubTexture name="TXTspace0007" x="264" y="1" width="262" height="77" frameX="-0" frameY="-0" frameWidth="263" frameHeight="78"/>
+	<SubTexture name="TXTspace0008" x="264" y="1" width="262" height="77" frameX="-0" frameY="-0" frameWidth="263" frameHeight="78"/>
+</TextureAtlas>

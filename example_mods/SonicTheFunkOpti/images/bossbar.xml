@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bossbar.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="target bar0000" x="2" y="2" width="184" height="39"/>
+	<SubTexture name="target bottom0000" x="2" y="43" width="213" height="95"/>
+	<SubTexture name="target top0000" x="2" y="140" width="213" height="95"/>
+</TextureAtlas>

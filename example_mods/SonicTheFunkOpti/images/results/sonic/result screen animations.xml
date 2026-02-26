@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="result screen animations.png" width="1024" height="1024">
+	<SubTexture name="sonic fall0000" x="0.5" y="0.5" width="228" height="341" frameX="-5.5" frameY="-0" frameWidth="270.5" frameHeight="725.5"/>
+	<SubTexture name="sonic fall0001" x="0.5" y="0.5" width="228" height="341" frameX="-5.5" frameY="-87" frameWidth="270.5" frameHeight="725.5"/>
+	<SubTexture name="sonic fall0002" x="0.5" y="0.5" width="228" height="341" frameX="-5.5" frameY="-173.5" frameWidth="270.5" frameHeight="725.5"/>
+	<SubTexture name="sonic fall0003" x="0.5" y="0.5" width="228" height="341" frameX="-5.5" frameY="-260" frameWidth="270.5" frameHeight="725.5"/>
+	<SubTexture name="sonic fall0004" x="0.5" y="0.5" width="228" height="341" frameX="-5.5" frameY="-346.5" frameWidth="270.5" frameHeight="725.5"/>
+	<SubTexture name="sonic fall0005" x="441" y="0.5" width="269.5" height="241.5" frameX="-0" frameY="-484" frameWidth="270.5" frameHeight="725.5"/>
+	<SubTexture name="sonic fall0006" x="441" y="0.5" width="269.5" height="241.5" frameX="-0" frameY="-484" frameWidth="270.5" frameHeight="725.5"/>
+	<SubTexture name="sonic fall0007" x="441" y="0.5" width="269.5" height="241.5" frameX="-0" frameY="-484" frameWidth="270.5" frameHeight="725.5"/>
+	<SubTexture name="sonic fall0008" x="711" y="0.5" width="265.5" height="250" frameX="-5" frameY="-474" frameWidth="270.5" frameHeight="725.5"/>
+	<SubTexture name="sonic fall0009" x="711" y="0.5" width="265.5" height="250" frameX="-5" frameY="-474" frameWidth="270.5" frameHeight="725.5"/>
+	<SubTexture name="sonic fall0010" x="711" y="0.5" width="265.5" height="250" frameX="-5" frameY="-474" frameWidth="270.5" frameHeight="725.5"/>
+	<SubTexture name="sonic fall0011" x="441" y="542.5" width="209" height="298.5" frameX="-11" frameY="-422" frameWidth="270.5" frameHeight="725.5"/>
+	<SubTexture name="sonic fall0012" x="441" y="542.5" width="209" height="298.5" frameX="-11" frameY="-422" frameWidth="270.5" frameHeight="725.5"/>
+	<SubTexture name="sonic fall0013" x="441" y="542.5" width="209" height="298.5" frameX="-11" frameY="-422" frameWidth="270.5" frameHeight="725.5"/>
+	<SubTexture name="sonic fall0014" x="213" y="342" width="211.5" height="299.5" frameX="-9.5" frameY="-422" frameWidth="270.5" frameHeight="725.5"/>
+	<SubTexture name="sonic fall0015" x="213" y="342" width="211.5" height="299.5" frameX="-9.5" frameY="-422" frameWidth="270.5" frameHeight="725.5"/>
+	<SubTexture name="sonic fall0016" x="213" y="342" width="211.5" height="299.5" frameX="-9.5" frameY="-422" frameWidth="270.5" frameHeight="725.5"/>
+	<SubTexture name="sonic fall0017" x="441" y="242.5" width="211" height="299.5" frameX="-9.5" frameY="-422" frameWidth="270.5" frameHeight="725.5"/>
+	<SubTexture name="sonic fall0018" x="441" y="242.5" width="211" height="299.5" frameX="-9.5" frameY="-422" frameWidth="270.5" frameHeight="725.5"/>
+	<SubTexture name="sonic fall0019" x="441" y="242.5" width="211" height="299.5" frameX="-9.5" frameY="-422" frameWidth="270.5" frameHeight="725.5"/>
+	<SubTexture name="sonic fall0020" x="229" y="0.5" width="211.5" height="299.5" frameX="-9.5" frameY="-422" frameWidth="270.5" frameHeight="725.5"/>
+	<SubTexture name="sonic fall0021" x="229" y="0.5" width="211.5" height="299.5" frameX="-9.5" frameY="-422" frameWidth="270.5" frameHeight="725.5"/>
+	<SubTexture name="sonic fall0022" x="229" y="0.5" width="211.5" height="299.5" frameX="-9.5" frameY="-422" frameWidth="270.5" frameHeight="725.5"/>
+	<SubTexture name="sonic fall0023" x="0.5" y="342" width="212" height="299.5" frameX="-9.5" frameY="-422" frameWidth="270.5" frameHeight="725.5"/>
+	<SubTexture name="sonic fall0024" x="0.5" y="342" width="212" height="299.5" frameX="-9.5" frameY="-422" frameWidth="270.5" frameHeight="725.5"/>
+	<SubTexture name="sonic fall0025" x="0.5" y="342" width="212" height="299.5" frameX="-9.5" frameY="-422" frameWidth="270.5" frameHeight="725.5"/>
+	<SubTexture name="sonic fall0026" x="213" y="642" width="211.5" height="299.5" frameX="-9.5" frameY="-422" frameWidth="270.5" frameHeight="725.5"/>
+	<SubTexture name="sonic fall0027" x="213" y="642" width="211.5" height="299.5" frameX="-9.5" frameY="-422" frameWidth="270.5" frameHeight="725.5"/>
+	<SubTexture name="sonic fall0028" x="213" y="642" width="211.5" height="299.5" frameX="-9.5" frameY="-422" frameWidth="270.5" frameHeight="725.5"/>
+	<SubTexture name="sonic fall0029" x="0.5" y="642" width="212" height="299.5" frameX="-9.5" frameY="-422" frameWidth="270.5" frameHeight="725.5"/>
+	<SubTexture name="sonic fall0030" x="0.5" y="642" width="212" height="299.5" frameX="-9.5" frameY="-422" frameWidth="270.5" frameHeight="725.5"/>
+	<SubTexture name="sonic fall0031" x="0.5" y="642" width="212" height="299.5" frameX="-9.5" frameY="-422" frameWidth="270.5" frameHeight="725.5"/>
+</TextureAtlas>

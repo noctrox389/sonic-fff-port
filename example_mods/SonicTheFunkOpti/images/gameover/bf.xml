@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="bf.png" width="867" height="1160">
+	<SubTexture name="bf continue0000" x="334" y="258" width="340" height="384" frameX="-0" frameY="-12" frameWidth="351" frameHeight="398"/>
+	<SubTexture name="bf continue0001" x="334" y="258" width="340" height="384" frameX="-0" frameY="-12" frameWidth="351" frameHeight="398"/>
+	<SubTexture name="bf continue0002" x="1" y="258" width="332" height="398" frameX="-19" frameY="-0" frameWidth="351" frameHeight="398"/>
+	<SubTexture name="bf continue0003" x="1" y="258" width="332" height="398" frameX="-19" frameY="-0" frameWidth="351" frameHeight="398"/>
+	<SubTexture name="bf continue0004" x="1" y="258" width="332" height="398" frameX="-19" frameY="-0" frameWidth="351" frameHeight="398"/>
+	<SubTexture name="bf continue0005" x="1" y="657" width="334" height="397" frameX="-14" frameY="-1" frameWidth="351" frameHeight="398"/>
+	<SubTexture name="bf continue0006" x="1" y="657" width="334" height="397" frameX="-14" frameY="-1" frameWidth="351" frameHeight="398"/>
+	<SubTexture name="bf continue0007" x="1" y="657" width="334" height="397" frameX="-14" frameY="-1" frameWidth="351" frameHeight="398"/>
+	<SubTexture name="bf continue0008" x="1" y="657" width="334" height="397" frameX="-14" frameY="-1" frameWidth="351" frameHeight="398"/>
+	<SubTexture name="bf lying down0000" x="1" y="1" width="434" height="256" frameX="-0" frameY="-2" frameWidth="435" frameHeight="259"/>
+	<SubTexture name="bf lying down0001" x="1" y="1" width="434" height="256" frameX="-0" frameY="-2" frameWidth="435" frameHeight="259"/>
+	<SubTexture name="bf lying down0002" x="436" y="1" width="430" height="256" frameX="-0" frameY="-2" frameWidth="435" frameHeight="259"/>
+	<SubTexture name="bf lying down0003" x="436" y="1" width="430" height="256" frameX="-0" frameY="-2" frameWidth="435" frameHeight="259"/>
+	<SubTexture name="bf lying down0004" x="336" y="643" width="417" height="258" frameX="-0" frameY="-0" frameWidth="435" frameHeight="259"/>
+	<SubTexture name="bf lying down0005" x="336" y="643" width="417" height="258" frameX="-0" frameY="-0" frameWidth="435" frameHeight="259"/>
+	<SubTexture name="bf lying down0006" x="336" y="902" width="417" height="257" frameX="-0" frameY="-1" frameWidth="435" frameHeight="259"/>
+	<SubTexture name="bf lying down0007" x="336" y="902" width="417" height="257" frameX="-0" frameY="-1" frameWidth="435" frameHeight="259"/>
+	<SubTexture name="bf lying down0008" x="336" y="902" width="417" height="257" frameX="-0" frameY="-1" frameWidth="435" frameHeight="259"/>
+	<SubTexture name="bf lying down0009" x="336" y="902" width="417" height="257" frameX="-0" frameY="-1" frameWidth="435" frameHeight="259"/>
+	<SubTexture name="bf lying down0010" x="336" y="902" width="417" height="257" frameX="-0" frameY="-1" frameWidth="435" frameHeight="259"/>
+	<SubTexture name="bf lying down0011" x="336" y="902" width="417" height="257" frameX="-0" frameY="-1" frameWidth="435" frameHeight="259"/>
+	<SubTexture name="bf lying down0012" x="336" y="902" width="417" height="257" frameX="-0" frameY="-1" frameWidth="435" frameHeight="259"/>
+	<SubTexture name="bf lying down0013" x="336" y="902" width="417" height="257" frameX="-0" frameY="-1" frameWidth="435" frameHeight="259"/>
+	<SubTexture name="bf lying down0014" x="336" y="902" width="417" height="257" frameX="-0" frameY="-1" frameWidth="435" frameHeight="259"/>
+	<SubTexture name="bf lying down0015" x="336" y="902" width="417" height="257" frameX="-0" frameY="-1" frameWidth="435" frameHeight="259"/>
+</TextureAtlas>

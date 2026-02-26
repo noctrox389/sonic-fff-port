@@ -1,0 +1,15 @@
+{	
+	"titlex": -150,
+	"titley": -100,
+	"startx": 100,
+	"starty": 576,
+	"gfx": 712,
+	"gfy": 100,
+	"backgroundSprite": "",
+	"bpm": 125,
+	
+	"animation": "sonic bop normal",
+	"dance_left": [14],
+	"dance_right": [14],
+	"idle": true
+}

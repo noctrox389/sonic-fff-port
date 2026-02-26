@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="icon-sonic.png">
+<SubTexture name="normal0000" x="0" y="0" width="138" height="149" frameX="0" frameY="0" frameWidth="116" frameHeight="120" />
+<SubTexture name="losing0000" x="155" y="0" width="138" height="149" frameX="0" frameY="0" frameWidth="116" frameHeight="120" />
+</TextureAtlas>

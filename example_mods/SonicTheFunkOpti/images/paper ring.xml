@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="paper ring.png" width="594" height="476">
+	<SubTexture name="paper ring0000" x="1" y="328" width="154" height="141" frameX="-0" frameY="-5" frameWidth="154" frameHeight="154"/>
+	<SubTexture name="paper ring0001" x="1" y="328" width="154" height="141" frameX="-0" frameY="-5" frameWidth="154" frameHeight="154"/>
+	<SubTexture name="paper ring0002" x="1" y="328" width="154" height="141" frameX="-0" frameY="-5" frameWidth="154" frameHeight="154"/>
+	<SubTexture name="paper ring0003" x="156" y="328" width="149" height="147" frameX="-4" frameY="-3" frameWidth="154" frameHeight="154"/>
+	<SubTexture name="paper ring0004" x="156" y="328" width="149" height="147" frameX="-4" frameY="-3" frameWidth="154" frameHeight="154"/>
+	<SubTexture name="paper ring0005" x="156" y="328" width="149" height="147" frameX="-4" frameY="-3" frameWidth="154" frameHeight="154"/>
+	<SubTexture name="paper ring0006" x="306" y="328" width="142" height="147" frameX="-9" frameY="-3" frameWidth="154" frameHeight="154"/>
+	<SubTexture name="paper ring0007" x="306" y="328" width="142" height="147" frameX="-9" frameY="-3" frameWidth="154" frameHeight="154"/>
+	<SubTexture name="paper ring0008" x="306" y="328" width="142" height="147" frameX="-9" frameY="-3" frameWidth="154" frameHeight="154"/>
+	<SubTexture name="paper ring0009" x="337" y="156" width="117" height="150" frameX="-18" frameY="-2" frameWidth="154" frameHeight="154"/>
+	<SubTexture name="paper ring0010" x="337" y="156" width="117" height="150" frameX="-18" frameY="-2" frameWidth="154" frameHeight="154"/>
+	<SubTexture name="paper ring0011" x="337" y="156" width="117" height="150" frameX="-18" frameY="-2" frameWidth="154" frameHeight="154"/>
+	<SubTexture name="paper ring0012" x="449" y="307" width="98" height="138" frameX="-30" frameY="-6" frameWidth="154" frameHeight="154"/>
+	<SubTexture name="paper ring0013" x="449" y="307" width="98" height="138" frameX="-30" frameY="-6" frameWidth="154" frameHeight="154"/>
+	<SubTexture name="paper ring0014" x="449" y="307" width="98" height="138" frameX="-30" frameY="-6" frameWidth="154" frameHeight="154"/>
+	<SubTexture name="paper ring0015" x="478" y="1" width="104" height="149" frameX="-29" frameY="-3" frameWidth="154" frameHeight="154"/>
+	<SubTexture name="paper ring0016" x="478" y="1" width="104" height="149" frameX="-29" frameY="-3" frameWidth="154" frameHeight="154"/>
+	<SubTexture name="paper ring0017" x="478" y="1" width="104" height="149" frameX="-29" frameY="-3" frameWidth="154" frameHeight="154"/>
+	<SubTexture name="paper ring0018" x="346" y="1" width="131" height="154" frameX="-15" frameY="-0" frameWidth="154" frameHeight="154"/>
+	<SubTexture name="paper ring0019" x="346" y="1" width="131" height="154" frameX="-15" frameY="-0" frameWidth="154" frameHeight="154"/>
+	<SubTexture name="paper ring0020" x="346" y="1" width="131" height="154" frameX="-15" frameY="-0" frameWidth="154" frameHeight="154"/>
+	<SubTexture name="paper ring0021" x="455" y="156" width="138" height="149" frameX="-9" frameY="-0" frameWidth="154" frameHeight="154"/>
+	<SubTexture name="paper ring0022" x="455" y="156" width="138" height="149" frameX="-9" frameY="-0" frameWidth="154" frameHeight="154"/>
+	<SubTexture name="paper ring0023" x="455" y="156" width="138" height="149" frameX="-9" frameY="-0" frameWidth="154" frameHeight="154"/>
+	<SubTexture name="paper sparkle0000" x="1" y="1" width="178" height="168" frameX="-23" frameY="-0" frameWidth="201" frameHeight="192"/>
+	<SubTexture name="paper sparkle0001" x="1" y="1" width="178" height="168" frameX="-23" frameY="-0" frameWidth="201" frameHeight="192"/>
+	<SubTexture name="paper sparkle0002" x="1" y="1" width="178" height="168" frameX="-23" frameY="-0" frameWidth="201" frameHeight="192"/>
+	<SubTexture name="paper sparkle0003" x="170" y="170" width="166" height="157" frameX="-23" frameY="-11" frameWidth="201" frameHeight="192"/>
+	<SubTexture name="paper sparkle0004" x="170" y="170" width="166" height="157" frameX="-23" frameY="-11" frameWidth="201" frameHeight="192"/>
+	<SubTexture name="paper sparkle0005" x="170" y="170" width="166" height="157" frameX="-23" frameY="-11" frameWidth="201" frameHeight="192"/>
+	<SubTexture name="paper sparkle0006" x="1" y="170" width="168" height="157" frameX="-0" frameY="-35" frameWidth="201" frameHeight="192"/>
+	<SubTexture name="paper sparkle0007" x="1" y="170" width="168" height="157" frameX="-0" frameY="-35" frameWidth="201" frameHeight="192"/>
+	<SubTexture name="paper sparkle0008" x="1" y="170" width="168" height="157" frameX="-0" frameY="-35" frameWidth="201" frameHeight="192"/>
+	<SubTexture name="paper sparkle0009" x="180" y="1" width="165" height="152" frameX="-6" frameY="-36" frameWidth="201" frameHeight="192"/>
+	<SubTexture name="paper sparkle0010" x="180" y="1" width="165" height="152" frameX="-6" frameY="-36" frameWidth="201" frameHeight="192"/>
+	<SubTexture name="paper sparkle0011" x="180" y="1" width="165" height="152" frameX="-6" frameY="-36" frameWidth="201" frameHeight="192"/>
+</TextureAtlas>

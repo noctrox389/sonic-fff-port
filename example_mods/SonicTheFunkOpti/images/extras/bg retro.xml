@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bg retro.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="reverse checkerboard0000" x="2" y="2" width="1502" height="879" frameX="-76" frameY="-76" frameWidth="1578" frameHeight="955"/>
+	<SubTexture name="reverse checkerboard0001" x="2" y="2" width="1502" height="879" frameX="-75" frameY="-75" frameWidth="1578" frameHeight="955"/>
+	<SubTexture name="reverse checkerboard0002" x="2" y="2" width="1502" height="879" frameX="-73" frameY="-73" frameWidth="1578" frameHeight="955"/>
+	<SubTexture name="reverse checkerboard0003" x="2" y="2" width="1502" height="879" frameX="-72" frameY="-72" frameWidth="1578" frameHeight="955"/>
+	<SubTexture name="reverse checkerboard0004" x="2" y="2" width="1502" height="879" frameX="-70" frameY="-70" frameWidth="1578" frameHeight="955"/>
+	<SubTexture name="reverse checkerboard0005" x="2" y="2" width="1502" height="879" frameX="-68" frameY="-69" frameWidth="1578" frameHeight="955"/>
+	<SubTexture name="reverse checkerboard0006" x="2" y="2" width="1502" height="879" frameX="-67" frameY="-67" frameWidth="1578" frameHeight="955"/>
+	<SubTexture name="reverse checkerboard0007" x="2" y="2" width="1502" height="879" frameX="-65" frameY="-65" frameWidth="1578" frameHeight="955"/>
+	<SubTexture name="reverse checkerboard0008" x="2" y="2" width="1502" height="879" frameX="-64" frameY="-64" frameWidth="1578" frameHeight="955"/>
+	<SubTexture name="reverse checkerboard0009" x="2" y="2" width="1502" height="879" frameX="-62" frameY="-62" frameWidth="1578" frameHeight="955"/>
+	<SubTexture name="reverse checkerboard0010" x="2" y="2" width="1502" height="879" frameX="-61" frameY="-61" frameWidth="1578" frameHeight="955"/>
+	<SubTexture name="reverse checkerboard0011" x="2" y="2" width="1502" height="879" frameX="-59" frameY="-59" frameWidth="1578" frameHeight="955"/>
+	<SubTexture name="reverse checkerboard0012" x="2" y="2" width="1502" height="879" frameX="-58" frameY="-58" frameWidth="1578" frameHeight="955"/>
+	<SubTexture name="reverse checkerboard0013" x="2" y="2" width="1502" height="879" frameX="-56" frameY="-56" frameWidth="1578" frameHeight="955"/>
+	<SubTexture name="reverse checkerboard0014" x="2" y="2" width="1502" height="879" frameX="-54" frameY="-54" frameWidth="1578" frameHeight="955"/>
+	<SubTexture name="reverse checkerboard0015" x="2" y="2" width="1502" height="879" frameX="-53" frameY="-53" frameWidth="1578" frameHeight="955"/>
+	<SubTexture name="reverse checkerboard0016" x="2" y="2" width="1502" height="879" frameX="-51" frameY="-51" frameWidth="1578" frameHeight="955"/>
+	<SubTexture name="reverse checkerboard0017" x="2" y="2" width="1502" height="879" frameX="-50" frameY="-50" frameWidth="1578" frameHeight="955"/>
+	<SubTexture name="reverse checkerboard0018" x="2" y="2" width="1502" height="879" frameX="-48" frameY="-48" frameWidth="1578" frameHeight="955"/>
+	<SubTexture name="reverse checkerboard0019" x="2" y="2" width="1502" height="879" frameX="-47" frameY="-47" frameWidth="1578" frameHeight="955"/>
+	<SubTexture name="reverse checkerboard0020" x="2" y="2" width="1502" height="879" frameX="-45" frameY="-45" frameWidth="1578" frameHeight="955"/>
+	<SubTexture name="reverse checkerboard0021" x="2" y="2" width="1502" height="879" frameX="-43" frameY="-44" frameWidth="1578" frameHeight="955"/>
+	<SubTexture name="reverse checkerboard0022" x="2" y="2" width="1502" height="879" frameX="-42" frameY="-42" frameWidth="1578" frameHeight="955"/>
+	<SubTexture name="reverse checkerboard0023" x="2" y="2" width="1502" height="879" frameX="-40" frameY="-40" frameWidth="1578" frameHeight="955"/>
+	<SubTexture name="reverse checkerboard0024" x="2" y="2" width="1502" height="879" frameX="-39" frameY="-39" frameWidth="1578" frameHeight="955"/>
+	<SubTexture name="reverse checkerboard0025" x="2" y="2" width="1502" height="879" frameX="-37" frameY="-37" frameWidth="1578" frameHeight="955"/>
+	<SubTexture name="reverse checkerboard0026" x="2" y="2" width="1502" height="879" frameX="-36" frameY="-36" frameWidth="1578" frameHeight="955"/>
+	<SubTexture name="reverse checkerboard0027" x="2" y="2" width="1502" height="879" frameX="-34" frameY="-34" frameWidth="1578" frameHeight="955"/>
+	<SubTexture name="reverse checkerboard0028" x="2" y="2" width="1502" height="879" frameX="-32" frameY="-33" frameWidth="1578" frameHeight="955"/>
+	<SubTexture name="reverse checkerboard0029" x="2" y="2" width="1502" height="879" frameX="-31" frameY="-31" frameWidth="1578" frameHeight="955"/>
+	<SubTexture name="reverse checkerboard0030" x="2" y="2" width="1502" height="879" frameX="-29" frameY="-29" frameWidth="1578" frameHeight="955"/>
+	<SubTexture name="reverse checkerboard0031" x="2" y="2" width="1502" height="879" frameX="-28" frameY="-28" frameWidth="1578" frameHeight="955"/>
+	<SubTexture name="reverse checkerboard0032" x="2" y="2" width="1502" height="879" frameX="-26" frameY="-26" frameWidth="1578" frameHeight="955"/>
+	<SubTexture name="reverse checkerboard0033" x="2" y="2" width="1502" height="879" frameX="-25" frameY="-25" frameWidth="1578" frameHeight="955"/>
+	<SubTexture name="reverse checkerboard0034" x="2" y="2" width="1502" height="879" frameX="-23" frameY="-23" frameWidth="1578" frameHeight="955"/>
+	<SubTexture name="reverse checkerboard0035" x="2" y="2" width="1502" height="879" frameX="-22" frameY="-22" frameWidth="1578" frameHeight="955"/>
+	<SubTexture name="reverse checkerboard0036" x="2" y="2" width="1502" height="879" frameX="-20" frameY="-20" frameWidth="1578" frameHeight="955"/>
+	<SubTexture name="reverse checkerboard0037" x="2" y="2" width="1502" height="879" frameX="-18" frameY="-18" frameWidth="1578" frameHeight="955"/>
+	<SubTexture name="reverse checkerboard0038" x="2" y="2" width="1502" height="879" frameX="-17" frameY="-17" frameWidth="1578" frameHeight="955"/>
+	<SubTexture name="reverse checkerboard0039" x="2" y="2" width="1502" height="879" frameX="-15" frameY="-15" frameWidth="1578" frameHeight="955"/>
+	<SubTexture name="reverse checkerboard0040" x="2" y="2" width="1502" height="879" frameX="-14" frameY="-14" frameWidth="1578" frameHeight="955"/>
+	<SubTexture name="reverse checkerboard0041" x="2" y="2" width="1502" height="879" frameX="-12" frameY="-12" frameWidth="1578" frameHeight="955"/>
+	<SubTexture name="reverse checkerboard0042" x="2" y="2" width="1502" height="879" frameX="-11" frameY="-11" frameWidth="1578" frameHeight="955"/>
+	<SubTexture name="reverse checkerboard0043" x="2" y="2" width="1502" height="879" frameX="-9" frameY="-9" frameWidth="1578" frameHeight="955"/>
+	<SubTexture name="reverse checkerboard0044" x="2" y="2" width="1502" height="879" frameX="-7" frameY="-7" frameWidth="1578" frameHeight="955"/>
+	<SubTexture name="reverse checkerboard0045" x="2" y="2" width="1502" height="879" frameX="-6" frameY="-6" frameWidth="1578" frameHeight="955"/>
+	<SubTexture name="reverse checkerboard0046" x="2" y="2" width="1502" height="879" frameX="-4" frameY="-4" frameWidth="1578" frameHeight="955"/>
+	<SubTexture name="reverse checkerboard0047" x="2" y="2" width="1502" height="879" frameX="-3" frameY="-3" frameWidth="1578" frameHeight="955"/>
+	<SubTexture name="reverse checkerboard0048" x="2" y="2" width="1502" height="879" frameX="-1" frameY="-1" frameWidth="1578" frameHeight="955"/>
+	<SubTexture name="reverse checkerboard0049" x="2" y="2" width="1502" height="879" frameX="0" frameY="0" frameWidth="1578" frameHeight="955"/>
+</TextureAtlas>
